@@ -1,0 +1,11 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseConstructorGenericParameters" value="false" />
+    <option name="collapseLambdas" value="false" />
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
+</application>
