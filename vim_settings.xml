@@ -1,28 +1,16 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/app/ActivityThread.java" timestamp="1528516768621">
-        <mark key="'" line="3620" column="12" />
-        <mark key="[" line="717" column="0" />
-        <mark key="]" line="717" column="0" />
-        <mark key="." line="717" column="0" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/net/Uri.java" timestamp="1528531008336">
+        <mark key="'" line="456" column="31" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/DecorView.java" timestamp="1527762814598">
-        <mark key="'" line="439" column="29" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/PrintStream.java" timestamp="1528535374396">
-        <mark key="'" line="330" column="13" />
-        <mark key="[" line="745" column="0" />
-        <mark key="]" line="745" column="0" />
-        <mark key="." line="745" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/ViewGroup.java" timestamp="1527763008255">
-        <mark key="'" line="1833" column="31" />
-        <mark key="[" line="1833" column="16" />
-        <mark key="]" line="1833" column="16" />
-        <mark key="." line="1833" column="16" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" timestamp="1528537494180">
+        <mark key="'" line="243" column="35" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/configbus/src/main/java/com/qiku/configbus/ConfigRequest.java" timestamp="1528872146128">
         <mark key="'" line="69" column="18" />
@@ -31,9 +19,41 @@
         <mark key="^" line="36" column="21" />
         <mark key="." line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/localservice-common/localservice-util/src/main/java/com/qiku/localservice/util/Logger.java" timestamp="1529491219504" />
       <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/maoyan/MaoYanHttpClientFactory.java" timestamp="1529491201189">
         <mark key="'" line="43" column="38" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/ViewGroup.java" timestamp="1527763008255">
+        <mark key="'" line="1833" column="31" />
+        <mark key="[" line="1833" column="16" />
+        <mark key="]" line="1833" column="16" />
+        <mark key="." line="1833" column="16" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/app/ActivityThread.java" timestamp="1528516768621">
+        <mark key="'" line="3620" column="12" />
+        <mark key="[" line="717" column="0" />
+        <mark key="]" line="717" column="0" />
+        <mark key="." line="717" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FileDescriptor.java" timestamp="1528537322586">
+        <mark key="'" line="85" column="50" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" timestamp="1530256084852">
+        <mark key="'" line="240" column="17" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/PhoneWindow.java" timestamp="1527762680720">
+        <mark key="'" line="1818" column="37" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/common/src/main/java/com/qiku/common/logger/Handler.java" timestamp="1528105474453">
+        <mark key="'" line="4" column="44" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/DecorView.java" timestamp="1527762814598">
+        <mark key="'" line="439" column="29" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/View.java" timestamp="1527763312372">
+        <mark key="'" line="11712" column="21" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" timestamp="1528535393007">
+        <mark key="'" line="51" column="18" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/app/Activity.java" timestamp="1528516907142">
         <mark key="'" line="7107" column="19" />
@@ -41,60 +61,39 @@
         <mark key="]" line="2909" column="0" />
         <mark key="." line="2909" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/KeyEvent.java" timestamp="1527764075359">
-        <mark key="'" line="2714" column="38" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/common/src/main/java/com/qiku/common/logger/Handler.java" timestamp="1528105474453">
-        <mark key="'" line="4" column="44" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/net/Uri.java" timestamp="1528531008336">
-        <mark key="'" line="456" column="31" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/util/logging/LogManager.java" timestamp="1528105409633">
         <mark key="'" line="143" column="13" />
         <mark key="[" line="52" column="9" />
         <mark key="]" line="52" column="9" />
         <mark key="." line="52" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/HttpClientHelper.java" timestamp="1529491213754" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/View.java" timestamp="1527763312372">
-        <mark key="'" line="11712" column="21" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" timestamp="1528537494180">
-        <mark key="'" line="243" column="35" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/service/dataloader/loader/impl/MaoYanMovieDataLoader.java" timestamp="1529491156845">
-        <mark key="'" line="55" column="13" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/PhoneWindow.java" timestamp="1527762680720">
-        <mark key="'" line="1818" column="37" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/StrictMode.java" timestamp="1528532396908">
+        <mark key="'" line="913" column="28" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" timestamp="1528531187257">
         <mark key="'" line="2711" column="68" />
         <mark key="m" line="9892" column="20" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/StrictMode.java" timestamp="1528532396908">
-        <mark key="'" line="913" column="28" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/KeyEvent.java" timestamp="1527764075359">
+        <mark key="'" line="2714" column="38" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" timestamp="1528535393007">
-        <mark key="'" line="51" column="18" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/PrintStream.java" timestamp="1528535374396">
+        <mark key="'" line="330" column="13" />
+        <mark key="[" line="745" column="0" />
+        <mark key="]" line="745" column="0" />
+        <mark key="." line="745" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/lang/System.java" timestamp="1528535556799">
         <mark key="'" line="98" column="33" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FileDescriptor.java" timestamp="1528537322586">
-        <mark key="'" line="85" column="50" />
+      <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/service/dataloader/loader/impl/MaoYanMovieDataLoader.java" timestamp="1529491156845">
+        <mark key="'" line="55" column="13" />
       </file>
       <file name="/fragment.java" timestamp="1528538146361">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9426" column="42" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="9439" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
       <jump line="9440" column="26" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
       <jump line="9482" column="75" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
       <jump line="9557" column="31" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
@@ -193,6 +192,8 @@
       <jump line="64" column="18" filename="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/configbus/src/main/java/com/qiku/configbus/ConfigRequest.java" />
       <jump line="55" column="13" filename="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/service/dataloader/loader/impl/MaoYanMovieDataLoader.java" />
       <jump line="43" column="38" filename="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/maoyan/MaoYanHttpClientFactory.java" />
+      <jump line="168" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" />
+      <jump line="240" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -267,6 +268,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
