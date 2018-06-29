@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/net/Uri.java" timestamp="1528531008336">
@@ -93,7 +93,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/service/dataloader/loader/impl/MaoYanMovieDataLoader.java" timestamp="1529491156845">
         <mark key="'" line="55" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1528538146361">
+      <file name="/fragment.java" timestamp="1530259113588">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
