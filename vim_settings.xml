@@ -37,8 +37,8 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FileDescriptor.java" timestamp="1528537322586">
         <mark key="'" line="85" column="50" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" timestamp="1530256084852">
-        <mark key="'" line="240" column="17" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" timestamp="1530257729546">
+        <mark key="'" line="200" column="34" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/PhoneWindow.java" timestamp="1527762680720">
         <mark key="'" line="1818" column="37" />
@@ -74,8 +74,12 @@
         <mark key="'" line="2711" column="68" />
         <mark key="m" line="9892" column="20" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/tokenizer/src/main/java/com/qiku/tokenizer/OnlineEngine.java" timestamp="1530258466174" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/KeyEvent.java" timestamp="1527764075359">
         <mark key="'" line="2714" column="38" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" timestamp="1530257933436">
+        <mark key="'" line="434" column="28" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/PrintStream.java" timestamp="1528535374396">
         <mark key="'" line="330" column="13" />
@@ -94,16 +98,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9440" column="26" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="9482" column="75" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="9557" column="31" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="9614" column="8" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="9726" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="9727" column="43" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="9859" column="31" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="9862" column="41" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="9880" column="20" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="9884" column="31" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
       <jump line="9892" column="20" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
       <jump line="9926" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
       <jump line="2630" column="84" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
@@ -194,6 +188,16 @@
       <jump line="43" column="38" filename="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/maoyan/MaoYanHttpClientFactory.java" />
       <jump line="168" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" />
       <jump line="240" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" />
+      <jump line="187" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" />
+      <jump line="190" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" />
+      <jump line="200" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" />
+      <jump line="199" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="205" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="146" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="187" column="18" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="189" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="195" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="434" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -215,19 +219,19 @@
         <text encoding="base64">ICogICAgICAgICA8dGQgYWxpZ249ImNlbnRlciI+PGNvZGU+b25TdGFydCgpPC9jb2RlPjwvdGQ+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>12</text>
+        <text>/callAdapter</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>mWrapped</text>
+        <text>callAdapter</text>
       </register>
     </registers>
     <search>
-      <last-search>mWrapped</last-search>
+      <last-search>callAdapter</last-search>
       <last-offset />
-      <last-pattern>mWrapped</last-pattern>
+      <last-pattern>callAdapter</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -245,6 +249,7 @@
         <entry>put</entry>
         <entry>out</entry>
         <entry>mWrapped</entry>
+        <entry>callAdapter</entry>
       </history-search>
       <history-cmd>
         <entry>/onKeyUP</entry>
@@ -261,6 +266,7 @@
         <entry>208</entry>
         <entry>/mWrapped</entry>
         <entry>12</entry>
+        <entry>/callAdapter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
