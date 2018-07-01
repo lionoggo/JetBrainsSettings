@@ -85,6 +85,7 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/app/Activity.java" timestamp="1528387811407">
         <mark key="'" line="6984" column="20" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/Looper.java" timestamp="1530413867563" />
       <file name="$USER_HOME$/AndroidStudioProjects/android-lite-http/litehttp/src/main/java/com/litesuits/http/request/AbstractRequest.java" timestamp="1514104551475">
         <mark key="'" line="451" column="14" />
       </file>
@@ -233,19 +234,19 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2Uuc2V0RXhjZXB0aW9uKGh0dHBFeGNlcHRpb24pOwogICAgICAgIH0gY2F0Y2ggKFRocm93YWJsZSBlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>/mFuture</text>
+        <text>/sThreadLocal</text>
       </register>
       <register name="-" type="4">
         <text>re</text>
       </register>
       <register name="/" type="4">
-        <text>47</text>
+        <text>sThreadLocal</text>
       </register>
     </registers>
     <search>
-      <last-search>47</last-search>
+      <last-search>sThreadLocal</last-search>
       <last-offset />
-      <last-pattern>47</last-pattern>
+      <last-pattern>sThreadLocal</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -262,6 +263,7 @@
         <entry>59</entry>
         <entry>782</entry>
         <entry>47</entry>
+        <entry>sThreadLocal</entry>
       </history-search>
       <history-cmd>
         <entry>/mNewSurface</entry>
@@ -276,6 +278,7 @@
         <entry>/59</entry>
         <entry>/782</entry>
         <entry>/47</entry>
+        <entry>/sThreadLocal</entry>
       </history-cmd>
       <history-expr />
       <history-input />
