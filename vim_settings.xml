@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/net/Uri.java" timestamp="1528531008336">
@@ -11,6 +11,28 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FileDescriptor.java" timestamp="1528537322586">
+        <mark key="'" line="85" column="50" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" timestamp="1530257729546">
+        <mark key="'" line="200" column="34" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/PhoneWindow.java" timestamp="1527762680720">
+        <mark key="'" line="1818" column="37" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/DecorView.java" timestamp="1527762814598">
+        <mark key="'" line="439" column="29" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/StrictMode.java" timestamp="1528532396908">
+        <mark key="'" line="913" column="28" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" timestamp="1528531187257">
+        <mark key="'" line="2711" column="68" />
+        <mark key="m" line="9892" column="20" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" timestamp="1530257933436">
+        <mark key="'" line="434" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/configbus/src/main/java/com/qiku/configbus/ConfigRequest.java" timestamp="1528872146128">
         <mark key="'" line="69" column="18" />
@@ -34,21 +56,10 @@
         <mark key="]" line="717" column="0" />
         <mark key="." line="717" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FileDescriptor.java" timestamp="1528537322586">
-        <mark key="'" line="85" column="50" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" timestamp="1530257729546">
-        <mark key="'" line="200" column="34" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/PhoneWindow.java" timestamp="1527762680720">
-        <mark key="'" line="1818" column="37" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/common/src/main/java/com/qiku/common/logger/Handler.java" timestamp="1528105474453">
         <mark key="'" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/DecorView.java" timestamp="1527762814598">
-        <mark key="'" line="439" column="29" />
-      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/ViewTreeObserver.java" timestamp="1530674151592" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/View.java" timestamp="1527763312372">
         <mark key="'" line="11712" column="21" />
       </file>
@@ -61,25 +72,17 @@
         <mark key="]" line="2909" column="0" />
         <mark key="." line="2909" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" timestamp="1530674425286">
+        <mark key="'" line="2723" column="39" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/util/logging/LogManager.java" timestamp="1528105409633">
         <mark key="'" line="143" column="13" />
         <mark key="[" line="52" column="9" />
         <mark key="]" line="52" column="9" />
         <mark key="." line="52" column="9" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/StrictMode.java" timestamp="1528532396908">
-        <mark key="'" line="913" column="28" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" timestamp="1528531187257">
-        <mark key="'" line="2711" column="68" />
-        <mark key="m" line="9892" column="20" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/tokenizer/src/main/java/com/qiku/tokenizer/OnlineEngine.java" timestamp="1530258466174" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/KeyEvent.java" timestamp="1527764075359">
         <mark key="'" line="2714" column="38" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" timestamp="1530257933436">
-        <mark key="'" line="434" column="28" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/PrintStream.java" timestamp="1528535374396">
         <mark key="'" line="330" column="13" />
@@ -98,21 +101,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9892" column="20" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="9926" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="2630" column="84" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="2637" column="86" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="2644" column="85" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="2651" column="85" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="2658" column="84" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="2667" column="83" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="2674" column="94" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="2682" column="84" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="2689" column="88" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="2697" column="90" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="2704" column="74" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="2711" column="68" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/content/Intent.java" />
-      <jump line="913" column="28" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/StrictMode.java" />
       <jump line="68" column="19" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
       <jump line="98" column="33" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/lang/System.java" />
       <jump line="833" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/PrintStream.java" />
@@ -198,6 +186,21 @@
       <jump line="189" column="35" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" />
       <jump line="195" column="6" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" />
       <jump line="434" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" />
+      <jump line="2640" column="60" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="3006" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="2726" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="2727" column="49" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="2728" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="2729" column="62" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="2731" column="55" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="2749" column="11" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="2762" column="11" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="2774" column="50" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="54" column="20" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="2701" column="42" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="2708" column="21" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="2714" column="56" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
+      <jump line="2723" column="39" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
     </jumps>
     <registers>
       <register name="1" type="2">
@@ -219,19 +222,19 @@
         <text encoding="base64">ICogICAgICAgICA8dGQgYWxpZ249ImNlbnRlciI+PGNvZGU+b25TdGFydCgpPC9jb2RlPjwvdGQ+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>/callAdapter</text>
+        <text>/ViewStr</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>callAdapter</text>
+        <text>ViewStr</text>
       </register>
     </registers>
     <search>
-      <last-search>callAdapter</last-search>
+      <last-search>ViewStr</last-search>
       <last-offset />
-      <last-pattern>callAdapter</last-pattern>
+      <last-pattern>ViewStr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -250,6 +253,8 @@
         <entry>out</entry>
         <entry>mWrapped</entry>
         <entry>callAdapter</entry>
+        <entry>ViewS</entry>
+        <entry>ViewStr</entry>
       </history-search>
       <history-cmd>
         <entry>/onKeyUP</entry>
@@ -267,6 +272,8 @@
         <entry>/mWrapped</entry>
         <entry>12</entry>
         <entry>/callAdapter</entry>
+        <entry>/ViewS</entry>
+        <entry>/ViewStr</entry>
       </history-cmd>
       <history-expr />
       <history-input />
