@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SSAutoCompleteTextView.java" timestamp="1546599241185" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/file/EnvironmentUtils.java" timestamp="1546506886943">
         <mark key="'" line="192" column="15" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/lightrx/0.0.14/1d527d96c60ebcb0f60bf50ca22254bc8ab6342f/lightrx-0.0.14-sources.jar!/com/ixigua/lightrx/internal/operators/OperatorSubscribeOn.java" timestamp="1546596456251" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/XGSearchBlock.java" timestamp="1546597630988">
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/XGSearchBlock.java" timestamp="1546598644865">
         <mark key="'" line="132" column="62" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" timestamp="1530257933436">
@@ -25,7 +26,7 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/KeyEvent.java" timestamp="1527764075359">
         <mark key="'" line="2714" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchScene.java" timestamp="1546597070359">
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchScene.java" timestamp="1546599231303">
         <mark key="'" line="871" column="20" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/net/Uri.java" timestamp="1528531008336">
@@ -44,7 +45,7 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/StrictMode.java" timestamp="1528532396908">
         <mark key="'" line="913" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchRootScene.java" timestamp="1546597965081">
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchRootScene.java" timestamp="1546599068552">
         <mark key="'" line="78" column="26" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" timestamp="1528535393007">
@@ -62,6 +63,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/ss/android/common/app/data/AppSettings.java" timestamp="1546506709685">
         <mark key="'" line="64" column="20" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/ss/android/newmedia/activity/BaseScene.java" timestamp="1546598867975" />
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/bytedance/article/common/monitor/LaunchUtils.java" timestamp="1546506981646">
         <mark key="'" line="73" column="8" />
         <mark key="[" line="0" column="0" />
