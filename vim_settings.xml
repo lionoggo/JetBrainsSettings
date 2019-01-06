@@ -8,6 +8,8 @@
         <mark key="'" line="192" column="15" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/lightrx/0.0.14/1d527d96c60ebcb0f60bf50ca22254bc8ab6342f/lightrx-0.0.14-sources.jar!/com/ixigua/lightrx/internal/operators/OperatorSubscribeOn.java" timestamp="1546596456251" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/lib_common/src/main/java/com/guiying/module/common/base/BaseActivity.java" timestamp="1546743767488" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/res/layout/activity_main.xml" timestamp="1546743804989" />
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/XGSearchBlock.java" timestamp="1546598644865">
         <mark key="'" line="132" column="62" />
       </file>
@@ -25,6 +27,9 @@
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/KeyEvent.java" timestamp="1527764075359">
         <mark key="'" line="2714" column="38" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/main/NewsCenterActivity.java" timestamp="1546743945203">
+        <mark key="'" line="41" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchScene.java" timestamp="1546600084254">
         <mark key="'" line="871" column="20" />
@@ -48,6 +53,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchRootScene.java" timestamp="1546599068552">
         <mark key="'" line="78" column="26" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_girls/build.gradle" timestamp="1546743284993" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" timestamp="1528535393007">
         <mark key="'" line="51" column="18" />
       </file>
@@ -82,12 +88,16 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.common/push/2.2.2.5/ea04a8c9a44afd438e3174c02b13c7e7d59ba6c9/push-2.2.2.5-sources.jar!/com/ss/android/pushmanager/MessageConstants.java" timestamp="1546506524894">
         <mark key="'" line="99" column="44" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" timestamp="1546743870678">
+        <mark key="'" line="26" column="34" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" timestamp="1546507116031">
         <mark key="'" line="228" column="26" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/PhoneWindow.java" timestamp="1527762680720">
         <mark key="'" line="1818" column="37" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/build.gradle" timestamp="1546743845342" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" timestamp="1530257729546">
         <mark key="'" line="200" column="34" />
       </file>
@@ -99,10 +109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="21" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" />
-      <jump line="28" column="59" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" />
-      <jump line="29" column="60" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" />
-      <jump line="30" column="33" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" />
       <jump line="36" column="34" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" />
       <jump line="46" column="22" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" />
       <jump line="48" column="27" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" />
@@ -199,6 +205,10 @@
       <jump line="132" column="62" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/XGSearchBlock.java" />
       <jump line="871" column="20" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchScene.java" />
       <jump line="78" column="26" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchRootScene.java" />
+      <jump line="19" column="35" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" />
+      <jump line="26" column="34" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" />
+      <jump line="35" column="45" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/main/NewsCenterActivity.java" />
+      <jump line="41" column="45" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/main/NewsCenterActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
