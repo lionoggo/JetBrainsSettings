@@ -25,9 +25,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/service/dataloader/loader/impl/MaoYanMovieDataLoader.java" timestamp="1529491156845">
         <mark key="'" line="55" column="13" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ad/src/com/ss/android/ad/IAdDepend.java" timestamp="1546755240004" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/StrictMode.java" timestamp="1528532396908">
         <mark key="'" line="913" column="28" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/ss/android/module/live/ILivePreviewService.java" timestamp="1546756490319" />
       <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/componentbase/src/main/java/com/loong/componentbase/service/IAccountService.java" timestamp="1546746345354" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" timestamp="1528535393007">
         <mark key="'" line="51" column="18" />
@@ -56,6 +58,7 @@
         <mark key="'" line="41" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/build.gradle" timestamp="1546743845342" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/BusinessAccessLayer/src/main/java/com/ixigua/accesslayer/common/ModuleConstants.java" timestamp="1546756419083" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FileDescriptor.java" timestamp="1528537322586">
         <mark key="'" line="85" column="50" />
       </file>
@@ -66,10 +69,7 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/res/layout/activity_main.xml" timestamp="1546743804989" />
       <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/app/src/main/java/com/loong/componentdemo/MainApplication.java" timestamp="1546746249079" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/BottomNavigationActivity.java" timestamp="1546744268905">
-        <mark key="'" line="77" column="58" />
-        <mark key="[" line="61" column="15" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/BusinessAccessLayer/src/main/java/com/ixigua/accesslayer/common/wallet/IWalletService.java" timestamp="1546756312383" />
       <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/maoyan/MaoYanHttpClientFactory.java" timestamp="1529491201189">
         <mark key="'" line="43" column="38" />
       </file>
@@ -96,9 +96,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_girls/build.gradle" timestamp="1546743284993" />
       <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/app/build.gradle" timestamp="1546746523850" />
-      <file name="/Dummy.txt" timestamp="1546599300593">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/login/src/main/java/com/loong/login/AccountService.java" timestamp="1546746319024" />
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/bytedance/article/common/monitor/LaunchUtils.java" timestamp="1546506981646">
         <mark key="'" line="73" column="8" />
@@ -115,23 +112,22 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/MyDelegate.java" timestamp="1546743999861">
         <mark key="'" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" timestamp="1546507116031">
-        <mark key="'" line="228" column="26" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" timestamp="1546755561521">
+        <mark key="'" line="1152" column="67" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/share/src/main/java/com/loong/share/ShareActivity.java" timestamp="1546746437405" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/PhoneWindow.java" timestamp="1527762680720">
         <mark key="'" line="1818" column="37" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/wallet/src/main/java/com/ixigua/feature/wallet/WalletModuleContext.java" timestamp="1546755921715" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/module/ad/AdDependAdapter.java" timestamp="1546755454480" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/wallet/src/main/java/com/ixigua/feature/wallet/WalletService.java" timestamp="1546755906012" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" timestamp="1530257729546">
         <mark key="'" line="200" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/base/build.gradle" timestamp="1546745886696" />
-      <file name="/fragment.java" timestamp="1530259113588">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="657" column="19" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
       <jump line="678" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
       <jump line="679" column="19" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
       <jump line="703" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
@@ -231,6 +227,7 @@
       <jump line="78" column="58" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/BottomNavigationActivity.java" />
       <jump line="40" column="37" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_app/src/main/java/com/guiying/module/MyApplication.java" />
       <jump line="25" column="12" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_app/src/main/java/com/guiying/module/MyApplication.java" />
+      <jump line="1152" column="67" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
