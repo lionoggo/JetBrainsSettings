@@ -4,38 +4,19 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SSAutoCompleteTextView.java" timestamp="1546599241185" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/file/EnvironmentUtils.java" timestamp="1546506886943">
-        <mark key="'" line="192" column="15" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/lightrx/0.0.14/1d527d96c60ebcb0f60bf50ca22254bc8ab6342f/lightrx-0.0.14-sources.jar!/com/ixigua/lightrx/internal/operators/OperatorSubscribeOn.java" timestamp="1546596456251" />
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/lib_common/src/main/java/com/guiying/module/common/base/BaseActivity.java" timestamp="1546743767488" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/res/layout/activity_main.xml" timestamp="1546743804989" />
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/XGSearchBlock.java" timestamp="1546598644865">
         <mark key="'" line="132" column="62" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" timestamp="1530257933436">
         <mark key="'" line="434" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/maoyan/MaoYanHttpClientFactory.java" timestamp="1529491201189">
-        <mark key="'" line="43" column="38" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/square/TabLiveSquareFragment.java" timestamp="1546596117794">
         <mark key="'" line="174" column="25" />
         <mark key="[" line="175" column="0" />
         <mark key="]" line="175" column="0" />
         <mark key="." line="175" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/KeyEvent.java" timestamp="1527764075359">
-        <mark key="'" line="2714" column="38" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/main/NewsCenterActivity.java" timestamp="1546743945203">
-        <mark key="'" line="41" column="45" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchScene.java" timestamp="1546600084254">
-        <mark key="'" line="871" column="20" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/net/Uri.java" timestamp="1528531008336">
-        <mark key="'" line="456" column="31" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/commonui/0.6.6.6/9596b07b39e4f8401c9051c1142083fa73c583e4/commonui-0.6.6.6-sources.jar!/com/ixigua/commonui/view/cetegorytab/XGCategoryTabStrip.java" timestamp="1546595304176" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/View.java" timestamp="1527763312372">
@@ -44,24 +25,14 @@
       <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/service/dataloader/loader/impl/MaoYanMovieDataLoader.java" timestamp="1529491156845">
         <mark key="'" line="55" column="13" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/sp/BaseSettings.java" timestamp="1546506670829">
-        <mark key="'" line="43" column="34" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/StrictMode.java" timestamp="1528532396908">
         <mark key="'" line="913" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchRootScene.java" timestamp="1546599068552">
-        <mark key="'" line="78" column="26" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_girls/build.gradle" timestamp="1546743284993" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" timestamp="1528535393007">
         <mark key="'" line="51" column="18" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/lang/System.java" timestamp="1528535556799">
         <mark key="'" line="98" column="33" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1546599300593">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/DecorView.java" timestamp="1527762814598">
         <mark key="'" line="439" column="29" />
@@ -70,14 +41,63 @@
         <mark key="'" line="64" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/ss/android/newmedia/activity/BaseScene.java" timestamp="1546598867975" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/res-square/layout/xigualive_square_tab_fragment.xml" timestamp="1546595288992">
+        <mark key="'" line="12" column="43" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_app/src/main/java/com/guiying/module/MyApplication.java" timestamp="1546744314232">
+        <mark key="'" line="25" column="12" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.common/push/2.2.2.5/ea04a8c9a44afd438e3174c02b13c7e7d59ba6c9/push-2.2.2.5-sources.jar!/com/ss/android/pushmanager/MessageConstants.java" timestamp="1546506524894">
+        <mark key="'" line="99" column="44" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" timestamp="1546745335983">
+        <mark key="'" line="41" column="53" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/build.gradle" timestamp="1546743845342" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FileDescriptor.java" timestamp="1528537322586">
+        <mark key="'" line="85" column="50" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/file/EnvironmentUtils.java" timestamp="1546506886943">
+        <mark key="'" line="192" column="15" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/res/layout/activity_main.xml" timestamp="1546743804989" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/BottomNavigationActivity.java" timestamp="1546744268905">
+        <mark key="'" line="77" column="58" />
+        <mark key="[" line="61" column="15" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/maoyan/MaoYanHttpClientFactory.java" timestamp="1529491201189">
+        <mark key="'" line="43" column="38" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/KeyEvent.java" timestamp="1527764075359">
+        <mark key="'" line="2714" column="38" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/main/NewsCenterActivity.java" timestamp="1546744384543">
+        <mark key="'" line="41" column="45" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchScene.java" timestamp="1546600084254">
+        <mark key="'" line="871" column="20" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/net/Uri.java" timestamp="1528531008336">
+        <mark key="'" line="456" column="31" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/sp/BaseSettings.java" timestamp="1546506670829">
+        <mark key="'" line="43" column="34" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchRootScene.java" timestamp="1546599068552">
+        <mark key="'" line="78" column="26" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_girls/build.gradle" timestamp="1546743284993" />
+      <file name="/Dummy.txt" timestamp="1546599300593">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/bytedance/article/common/monitor/LaunchUtils.java" timestamp="1546506981646">
         <mark key="'" line="73" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/res-square/layout/xigualive_square_tab_fragment.xml" timestamp="1546595288992">
-        <mark key="'" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" timestamp="1530674425286">
         <mark key="'" line="2723" column="39" />
@@ -85,11 +105,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/common/src/main/java/com/qiku/common/logger/Handler.java" timestamp="1528105474453">
         <mark key="'" line="4" column="44" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.common/push/2.2.2.5/ea04a8c9a44afd438e3174c02b13c7e7d59ba6c9/push-2.2.2.5-sources.jar!/com/ss/android/pushmanager/MessageConstants.java" timestamp="1546506524894">
-        <mark key="'" line="99" column="44" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" timestamp="1546743870678">
-        <mark key="'" line="26" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/MyDelegate.java" timestamp="1546743999861">
+        <mark key="'" line="22" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" timestamp="1546507116031">
         <mark key="'" line="228" column="26" />
@@ -97,25 +114,14 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/PhoneWindow.java" timestamp="1527762680720">
         <mark key="'" line="1818" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/build.gradle" timestamp="1546743845342" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" timestamp="1530257729546">
         <mark key="'" line="200" column="34" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FileDescriptor.java" timestamp="1528537322586">
-        <mark key="'" line="85" column="50" />
       </file>
       <file name="/fragment.java" timestamp="1530259113588">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="34" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" />
-      <jump line="46" column="22" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" />
-      <jump line="48" column="27" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" />
-      <jump line="51" column="18" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" />
-      <jump line="85" column="50" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FileDescriptor.java" />
-      <jump line="173" column="8" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
-      <jump line="656" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
       <jump line="657" column="19" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
       <jump line="678" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
       <jump line="679" column="19" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
@@ -209,10 +215,17 @@
       <jump line="26" column="34" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" />
       <jump line="35" column="45" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/main/NewsCenterActivity.java" />
       <jump line="41" column="45" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/main/NewsCenterActivity.java" />
+      <jump line="22" column="11" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/MyDelegate.java" />
+      <jump line="41" column="53" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" />
+      <jump line="61" column="15" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/BottomNavigationActivity.java" />
+      <jump line="62" column="40" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/BottomNavigationActivity.java" />
+      <jump line="78" column="58" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/BottomNavigationActivity.java" />
+      <jump line="40" column="37" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_app/src/main/java/com/guiying/module/MyApplication.java" />
+      <jump line="25" column="12" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_app/src/main/java/com/guiying/module/MyApplication.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtVmlld1BhZ2Uuc2V0QWRhcHRlcihtQWRhcHRlcik7CiAgICAgICAgbVRvcENhdGVnb3J5U3RyaXAuc2V0T25UYWJDbGlja0xpc3RlbmVyKG5ldyBYR0NhdGVnb3J5VGFiU3RyaXAub25DYXRlZ29yeVRhYkxpc3RlbmVyKCkgewo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -221,31 +234,31 @@
         <text>kw</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtVmlld1BhZ2Uuc2V0QWRhcHRlcihtQWRhcHRlcik7CiAgICAgICAgbVRvcENhdGVnb3J5U3RyaXAuc2V0T25UYWJDbGlja0xpc3RlbmVyKG5ldyBYR0NhdGVnb3J5VGFiU3RyaXAub25DYXRlZ29yeVRhYkxpc3RlbmVyKCkgewo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtQWRhcHRlciA9IG5ldyBMaXZlQ2hhbm5lbEFkYXB0ZXIobVZpZXdQYWdlLCBnZXRDaGlsZEZyYWdtZW50TWFuYWdlcigpLCBuZXcgQXJyYXlMaXN0PExpdmVDaGFubmVsPigpKTsKICAgICAgICBtVmlld1BhZ2Uuc2V0QWRhcHRlcihtQWRhcHRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtVmlld1BhZ2Uuc2V0QWRhcHRlcihtQWRhcHRlcik7CiAgICAgICAgbVRvcENhdGVnb3J5U3RyaXAuc2V0T25UYWJDbGlja0xpc3RlbmVyKG5ldyBYR0NhdGVnb3J5VGFiU3RyaXAub25DYXRlZ29yeVRhYkxpc3RlbmVyKCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0KCkgewogICAgICAgIGlmIChMb2dnZXIuZGVidWcoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBtQWRhcHRlciA9IG5ldyBMaXZlQ2hhbm5lbEFkYXB0ZXIobVZpZXdQYWdlLCBnZXRDaGlsZEZyYWdtZW50TWFuYWdlcigpLCBuZXcgQXJyYXlMaXN0PExpdmVDaGFubmVsPigpKTsKICAgICAgICBtVmlld1BhZ2Uuc2V0QWRhcHRlcihtQWRhcHRlcik7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0KCkgewogICAgICAgIGlmIChMb2dnZXIuZGVidWcoKSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0KCkgewogICAgICAgIGlmIChMb2dnZXIuZGVidWcoKSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYnl0ZWRhbmNlLmFydGljbGUuY29tbW9uLm1vbml0b3I7Cgo=</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uYnl0ZWRhbmNlLmFydGljbGUuY29tbW9uLm1vbml0b3I7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0geCAgVGhlIDxjb2RlPmNoYXI8L2NvZGU+IHRvIGJlIHByaW50ZWQuCg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBjb25maWdDaGFuZ2VzKSAK</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0geCAgVGhlIDxjb2RlPmNoYXI8L2NvZGU+IHRvIGJlIHByaW50ZWQuCg==</text>
       </register>
       <register name=":" type="4">
         <text>/kw</text>
