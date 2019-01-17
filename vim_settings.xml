@@ -71,8 +71,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/vh/HuoshanTabViewHolder.java" timestamp="1547716440982">
         <mark key="'" line="140" column="63" />
       </file>
-      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/app/FlutterApplication.class" timestamp="1547456689469">
-        <mark key="'" line="21" column="21" />
+      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/app/FlutterApplication.class" timestamp="1547722367048">
+        <mark key="'" line="21" column="31" />
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="32" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/DecorView.java" timestamp="1527762814598">
         <mark key="'" line="439" column="29" />
@@ -205,7 +207,6 @@
       <jump line="15" column="48" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/VideoArticle/src/com/ss/android/article/video/ArticleApplication.java" />
       <jump line="16" column="42" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/wallet/src/main/java/com/ixigua/feature/wallet/WalletService.java" />
       <jump line="15" column="45" filename="$USER_HOME$/AndroidStudioProjects/akit_reader/android/app/src/main/AndroidManifest.xml" />
-      <jump line="21" column="21" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/app/FlutterApplication.class" />
       <jump line="73" column="19" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterMain.class" />
       <jump line="82" column="18" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterMain.class" />
       <jump line="87" column="17" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterMain.class" />
@@ -228,13 +229,14 @@
       <jump line="174" column="61" filename="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" />
       <jump line="1316" column="10" filename="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" />
       <jump line="584" column="115" filename="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" />
+      <jump line="21" column="31" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/app/FlutterApplication.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>flutterView</text>
