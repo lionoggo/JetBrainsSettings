@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/file/EnvironmentUtils.java" timestamp="1546506886943">
         <mark key="'" line="192" column="15" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter/pubspec.yaml" timestamp="1547720976871" />
       <file name="$USER_HOME$/AndroidStudioProjects/akit_reader/android/app/src/main/java/com/lionoggo/akitreader/MainActivity.java" timestamp="1547457073787">
         <mark key="'" line="6" column="36" />
       </file>
@@ -24,7 +25,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/maoyan/MaoYanHttpClientFactory.java" timestamp="1529491201189">
         <mark key="'" line="43" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" timestamp="1547716840113">
+      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" timestamp="1547720609984">
         <mark key="'" line="584" column="115" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/KeyEvent.java" timestamp="1527764075359">
@@ -100,6 +101,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/common/src/main/java/com/qiku/common/logger/Handler.java" timestamp="1528105474453">
         <mark key="'" line="4" column="44" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/local.properties" timestamp="1547720921928" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.common/push/2.2.2.5/ea04a8c9a44afd438e3174c02b13c7e7d59ba6c9/push-2.2.2.5-sources.jar!/com/ss/android/pushmanager/MessageConstants.java" timestamp="1546506524894">
         <mark key="'" line="99" column="44" />
       </file>
