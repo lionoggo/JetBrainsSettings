@@ -46,6 +46,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/VideoArticle/src/com/ss/android/article/video/ArticleApplication.java" timestamp="1546757294978">
         <mark key="'" line="15" column="48" />
       </file>
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/foundation/binding.dart" timestamp="1547725268395" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/sp/BaseSettings.java" timestamp="1546506670829">
         <mark key="'" line="43" column="34" />
       </file>
@@ -97,7 +98,7 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" timestamp="1530674425286">
         <mark key="'" line="2723" column="39" />
       </file>
-      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterMain.class" timestamp="1547456702110">
+      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterMain.class" timestamp="1547724809956">
         <mark key="'" line="87" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/common/src/main/java/com/qiku/common/logger/Handler.java" timestamp="1528105474453">
@@ -122,6 +123,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/wallet/src/main/java/com/ixigua/feature/wallet/WalletService.java" timestamp="1546757945909">
         <mark key="'" line="16" column="42" />
       </file>
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1547725825271">
+        <mark key="'" line="716" column="47" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" timestamp="1530257729546">
         <mark key="'" line="200" column="34" />
       </file>
@@ -130,9 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="639" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
-      <jump line="640" column="19" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
-      <jump line="243" column="35" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
       <jump line="64" column="18" filename="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/configbus/src/main/java/com/qiku/configbus/ConfigRequest.java" />
       <jump line="55" column="13" filename="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/service/dataloader/loader/impl/MaoYanMovieDataLoader.java" />
       <jump line="43" column="38" filename="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/maoyan/MaoYanHttpClientFactory.java" />
@@ -230,6 +231,9 @@
       <jump line="1316" column="10" filename="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" />
       <jump line="584" column="115" filename="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" />
       <jump line="21" column="31" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/app/FlutterApplication.class" />
+      <jump line="764" column="20" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" />
+      <jump line="763" column="26" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" />
+      <jump line="716" column="47" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
