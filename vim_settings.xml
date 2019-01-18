@@ -69,7 +69,12 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FileDescriptor.java" timestamp="1528537322586">
         <mark key="'" line="85" column="50" />
       </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/object.dart" timestamp="1547804680183" />
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/object.dart" timestamp="1547808132433">
+        <mark key="[" line="1492" column="31" />
+        <mark key="]" line="1492" column="30" />
+        <mark key="^" line="1492" column="30" />
+        <mark key="." line="1492" column="30" />
+      </file>
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/scheduler/binding.dart" timestamp="1547795663328" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/file/EnvironmentUtils.java" timestamp="1546506886943">
         <mark key="'" line="192" column="15" />
