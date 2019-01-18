@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/scheduler/binding.dart" timestamp="1547731419220" />
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/scheduler/binding.dart" timestamp="1547779988804" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/file/EnvironmentUtils.java" timestamp="1546506886943">
         <mark key="'" line="192" column="15" />
       </file>
@@ -57,7 +57,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchRootScene.java" timestamp="1546599068552">
         <mark key="'" line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1547729855965" />
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1547780616757" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" timestamp="1528535393007">
         <mark key="'" line="51" column="18" />
       </file>
@@ -119,16 +119,20 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" timestamp="1546755561521">
         <mark key="'" line="1152" column="67" />
       </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/binding.dart" timestamp="1547731731778" />
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/binding.dart" timestamp="1547780901892" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/PhoneWindow.java" timestamp="1527762680720">
         <mark key="'" line="1818" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/wallet/src/main/java/com/ixigua/feature/wallet/WalletService.java" timestamp="1546757945909">
         <mark key="'" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1547731884417">
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1547780079081">
         <mark key="'" line="716" column="47" />
+        <mark key="[" line="633" column="72" />
+        <mark key="]" line="633" column="70" />
+        <mark key="." line="633" column="70" />
       </file>
+      <file name="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/ui/window.dart" timestamp="1547780299095" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" timestamp="1530257729546">
         <mark key="'" line="200" column="34" />
       </file>
@@ -240,7 +244,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>, which
+  /// proceeds as follows:
+  /</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -248,32 +254,34 @@
       <register name="/" type="4">
         <text>flutterView</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="1" type="4">
+        <text>, which
+  /// proceeds as follows:
+  /</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtVmlld1BhZ2Uuc2V0QWRhcHRlcihtQWRhcHRlcik7CiAgICAgICAgbVRvcENhdGVnb3J5U3RyaXAuc2V0T25UYWJDbGlja0xpc3RlbmVyKG5ldyBYR0NhdGVnb3J5VGFiU3RyaXAub25DYXRlZ29yeVRhYkxpc3RlbmVyKCkgewo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtQWRhcHRlciA9IG5ldyBMaXZlQ2hhbm5lbEFkYXB0ZXIobVZpZXdQYWdlLCBnZXRDaGlsZEZyYWdtZW50TWFuYWdlcigpLCBuZXcgQXJyYXlMaXN0PExpdmVDaGFubmVsPigpKTsKICAgICAgICBtVmlld1BhZ2Uuc2V0QWRhcHRlcihtQWRhcHRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtVmlld1BhZ2Uuc2V0QWRhcHRlcihtQWRhcHRlcik7CiAgICAgICAgbVRvcENhdGVnb3J5U3RyaXAuc2V0T25UYWJDbGlja0xpc3RlbmVyKG5ldyBYR0NhdGVnb3J5VGFiU3RyaXAub25DYXRlZ29yeVRhYkxpc3RlbmVyKCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0KCkgewogICAgICAgIGlmIChMb2dnZXIuZGVidWcoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBtQWRhcHRlciA9IG5ldyBMaXZlQ2hhbm5lbEFkYXB0ZXIobVZpZXdQYWdlLCBnZXRDaGlsZEZyYWdtZW50TWFuYWdlcigpLCBuZXcgQXJyYXlMaXN0PExpdmVDaGFubmVsPigpKTsKICAgICAgICBtVmlld1BhZ2Uuc2V0QWRhcHRlcihtQWRhcHRlcik7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0KCkgewogICAgICAgIGlmIChMb2dnZXIuZGVidWcoKSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0KCkgewogICAgICAgIGlmIChMb2dnZXIuZGVidWcoKSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uYnl0ZWRhbmNlLmFydGljbGUuY29tbW9uLm1vbml0b3I7Cgo=</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uYnl0ZWRhbmNlLmFydGljbGUuY29tbW9uLm1vbml0b3I7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0geCAgVGhlIDxjb2RlPmNoYXI8L2NvZGU+IHRvIGJlIHByaW50ZWQuCg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name=":" type="4">
         <text>/flutterView</text>
