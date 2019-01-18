@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/scheduler/binding.dart" timestamp="1547779988804" />
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/scheduler/binding.dart" timestamp="1547794501339" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/file/EnvironmentUtils.java" timestamp="1546506886943">
         <mark key="'" line="192" column="15" />
       </file>
@@ -57,7 +57,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchRootScene.java" timestamp="1546599068552">
         <mark key="'" line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1547782400124" />
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1547793553266">
+        <mark key="'" line="2100" column="15" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" timestamp="1528535393007">
         <mark key="'" line="51" column="18" />
       </file>
@@ -126,7 +128,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/wallet/src/main/java/com/ixigua/feature/wallet/WalletService.java" timestamp="1546757945909">
         <mark key="'" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1547780079081">
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1547793824240">
         <mark key="'" line="716" column="47" />
         <mark key="[" line="633" column="72" />
         <mark key="]" line="633" column="70" />
@@ -141,10 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="13" filename="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/service/dataloader/loader/impl/MaoYanMovieDataLoader.java" />
-      <jump line="43" column="38" filename="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/maoyan/MaoYanHttpClientFactory.java" />
-      <jump line="168" column="21" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" />
-      <jump line="240" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" />
       <jump line="187" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" />
       <jump line="190" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" />
       <jump line="200" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" />
@@ -241,6 +239,10 @@
       <jump line="763" column="26" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" />
       <jump line="716" column="47" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" />
       <jump line="2719" column="16" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" />
+      <jump line="2167" column="41" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" />
+      <jump line="2169" column="6" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" />
+      <jump line="2096" column="20" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" />
+      <jump line="2100" column="15" filename="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -252,7 +254,7 @@
         <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>flutterView</text>
+        <text>onBuildScheduled</text>
       </register>
       <register name="1" type="4">
         <text>, which
@@ -284,13 +286,13 @@
         <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name=":" type="4">
-        <text>/flutterView</text>
+        <text>/onBuildScheduled</text>
       </register>
     </registers>
     <search>
-      <last-search>flutterView</last-search>
+      <last-search>onBuildScheduled</last-search>
       <last-offset />
-      <last-pattern>flutterView</last-pattern>
+      <last-pattern>onBuildScheduled</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -313,6 +315,7 @@
         <entry>ViewStr</entry>
         <entry>kw</entry>
         <entry>flutterView</entry>
+        <entry>onBuildScheduled</entry>
       </history-search>
       <history-cmd>
         <entry>/onKeyUP</entry>
@@ -334,6 +337,7 @@
         <entry>/ViewStr</entry>
         <entry>/kw</entry>
         <entry>/flutterView</entry>
+        <entry>/onBuildScheduled</entry>
       </history-cmd>
       <history-expr />
       <history-input />
