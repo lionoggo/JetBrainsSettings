@@ -4,60 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter/pubspec.yaml" timestamp="1547952509041" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/XGSearchBlock.java" timestamp="1546598644865">
-        <mark key="'" line="132" column="62" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" timestamp="1530257933436">
-        <mark key="'" line="434" column="28" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/View.java" timestamp="1527763312372">
-        <mark key="'" line="11712" column="21" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/service/dataloader/loader/impl/MaoYanMovieDataLoader.java" timestamp="1529491156845">
-        <mark key="'" line="55" column="13" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/StrictMode.java" timestamp="1528532396908">
-        <mark key="'" line="913" column="28" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tt-flutter-0.3.6-201901161637.aar/a7692de24a08eab663ce7a88157597fa/jars/libs/tt_route_app_flated.jar!/com/ss/android/flutter/ttrouteapp/TtRouteAppPlugin.class" timestamp="1547955842081" />
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1547793553266">
         <mark key="'" line="2100" column="15" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" timestamp="1528535393007">
-        <mark key="'" line="51" column="18" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/lang/System.java" timestamp="1528535556799">
-        <mark key="'" line="98" column="33" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/vh/HuoshanTabViewHolder.java" timestamp="1547716440982">
-        <mark key="'" line="140" column="63" />
-      </file>
-      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/app/FlutterApplication.class" timestamp="1547722367048">
-        <mark key="'" line="21" column="31" />
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="32" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/DecorView.java" timestamp="1527762814598">
-        <mark key="'" line="439" column="29" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/ss/android/common/app/data/AppSettings.java" timestamp="1546506709685">
-        <mark key="'" line="64" column="20" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/res-square/layout/xigualive_square_tab_fragment.xml" timestamp="1546595288992">
-        <mark key="'" line="12" column="43" />
-      </file>
-      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/app/FlutterActivity.class" timestamp="1547456776605">
-        <mark key="'" line="22" column="23" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_app/src/main/java/com/guiying/module/MyApplication.java" timestamp="1546744314232">
-        <mark key="'" line="25" column="12" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/local.properties" timestamp="1547952084902" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.common/push/2.2.2.5/ea04a8c9a44afd438e3174c02b13c7e7d59ba6c9/push-2.2.2.5-sources.jar!/com/ss/android/pushmanager/MessageConstants.java" timestamp="1546506524894">
-        <mark key="'" line="99" column="44" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" timestamp="1546745335983">
-        <mark key="'" line="41" column="53" />
-      </file>
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/view.dart" timestamp="1547813307624">
         <mark key="'" line="197" column="19" />
         <mark key="[" line="190" column="0" />
@@ -70,11 +21,10 @@
         <mark key="]" line="633" column="70" />
         <mark key="." line="633" column="70" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tt-flutter-0.3.6-201901161637.aar/a7692de24a08eab663ce7a88157597fa/jars/libs/tt_flutter_short_video_flated.jar!/com/ss/android/ttfluttershortvideo/ShortVideoDetailCommentPlugin.class" timestamp="1547955429890" />
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/flutter_app/lib/main.dart" timestamp="1547796935605" />
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/layer.dart" timestamp="1547803499999" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FileDescriptor.java" timestamp="1528537322586">
-        <mark key="'" line="85" column="50" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/flutter/src/main/java/com/ss/android/flutter/FlutterUtils.java" timestamp="1547955174918" />
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/object.dart" timestamp="1547814277788">
         <mark key="'" line="950" column="23" />
         <mark key="[" line="1492" column="31" />
@@ -83,82 +33,28 @@
         <mark key="." line="1492" column="30" />
       </file>
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/scheduler/binding.dart" timestamp="1547795663328" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/file/EnvironmentUtils.java" timestamp="1546506886943">
-        <mark key="'" line="192" column="15" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/akit_reader/android/app/src/main/java/com/lionoggo/akitreader/MainActivity.java" timestamp="1547457073787">
-        <mark key="'" line="6" column="36" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/adapter/StaggerListAdapter.java" timestamp="1547716386670">
-        <mark key="'" line="159" column="52" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/flutter/src/main/java/com/ss/android/shortvideo/ShortVideoDetailActivity.java" timestamp="1547954832060">
-        <mark key="[" line="219" column="56" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/utils/StaggerListViewHolderManager.java" timestamp="1547716422301">
-        <mark key="'" line="44" column="40" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/maoyan/MaoYanHttpClientFactory.java" timestamp="1529491201189">
-        <mark key="'" line="43" column="38" />
+      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/flutter/src/main/java/com/ss/android/shortvideo/ShortVideoDetailActivity.java" timestamp="1547956949044">
+        <mark key="[" line="220" column="56" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" timestamp="1547952267307">
         <mark key="'" line="584" column="115" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/KeyEvent.java" timestamp="1527764075359">
-        <mark key="'" line="2714" column="38" />
-      </file>
       <file name="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/ui/compositing.dart" timestamp="1547812864581" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchScene.java" timestamp="1546600084254">
-        <mark key="'" line="871" column="20" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/net/Uri.java" timestamp="1528531008336">
-        <mark key="'" line="456" column="31" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/VideoArticle/src/com/ss/android/article/video/ArticleApplication.java" timestamp="1546757294978">
-        <mark key="'" line="15" column="48" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/flutter/src/main/java/com/ss/android/ad/FlutterAd.java" timestamp="1547955148211" />
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/foundation/binding.dart" timestamp="1547725268395" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/sp/BaseSettings.java" timestamp="1546506670829">
-        <mark key="'" line="43" column="34" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchRootScene.java" timestamp="1546599068552">
-        <mark key="'" line="78" column="26" />
-      </file>
-      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/app/FlutterActivityDelegate.class" timestamp="1547456958033">
-        <mark key="'" line="88" column="64" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tt-flutter-0.3.6-201901161637.aar/a7692de24a08eab663ce7a88157597fa/jars/libs/tt_video_player_flated.jar!/com/ss/android/flutter/ttvideoplayer/VideoPlayerPlugin.class" timestamp="1547955339405" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ss.android.ttflutter/tt-flutter/0.3.6-201901161637/c2c37c565b9b0138754b0558c49353f647e4b48b/tt-flutter-0.3.6-201901161637-sources.jar!/com/ss/android/ttflutter/TTFlutterActivity.java" timestamp="1547956076896" />
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/semantics/semantics.dart" timestamp="1547952840406" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" timestamp="1530674425286">
-        <mark key="'" line="2723" column="39" />
-      </file>
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterMain.class" timestamp="1547724809956">
         <mark key="'" line="87" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/common/src/main/java/com/qiku/common/logger/Handler.java" timestamp="1528105474453">
-        <mark key="'" line="4" column="44" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/MyDelegate.java" timestamp="1546743999861">
-        <mark key="'" line="22" column="11" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" timestamp="1546755561521">
-        <mark key="'" line="1152" column="67" />
-      </file>
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/binding.dart" timestamp="1547813564926">
         <mark key="'" line="284" column="23" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/PhoneWindow.java" timestamp="1527762680720">
-        <mark key="'" line="1818" column="37" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/wallet/src/main/java/com/ixigua/feature/wallet/WalletService.java" timestamp="1546757945909">
-        <mark key="'" line="16" column="42" />
       </file>
       <file name="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/ui/window.dart" timestamp="1547813471278">
         <mark key="[" line="611" column="41" />
         <mark key="]" line="611" column="41" />
         <mark key="." line="611" column="41" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" timestamp="1530257729546">
-        <mark key="'" line="200" column="34" />
       </file>
     </filemarks>
     <jumps>
