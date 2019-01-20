@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter/pubspec.yaml" timestamp="1547720976871" />
+      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter/pubspec.yaml" timestamp="1547952509041" />
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/XGSearchBlock.java" timestamp="1546598644865">
         <mark key="'" line="132" column="62" />
       </file>
@@ -51,7 +51,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_app/src/main/java/com/guiying/module/MyApplication.java" timestamp="1546744314232">
         <mark key="'" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/local.properties" timestamp="1547720921928" />
+      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/local.properties" timestamp="1547952084902" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.common/push/2.2.2.5/ea04a8c9a44afd438e3174c02b13c7e7d59ba6c9/push-2.2.2.5-sources.jar!/com/ss/android/pushmanager/MessageConstants.java" timestamp="1546506524894">
         <mark key="'" line="99" column="44" />
       </file>
@@ -98,7 +98,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/maoyan/MaoYanHttpClientFactory.java" timestamp="1529491201189">
         <mark key="'" line="43" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" timestamp="1547720609984">
+      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" timestamp="1547952267307">
         <mark key="'" line="584" column="115" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/KeyEvent.java" timestamp="1527764075359">
@@ -124,7 +124,7 @@
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/app/FlutterActivityDelegate.class" timestamp="1547456958033">
         <mark key="'" line="88" column="64" />
       </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/semantics/semantics.dart" timestamp="1547814763119" />
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/semantics/semantics.dart" timestamp="1547952840406" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" timestamp="1530674425286">
         <mark key="'" line="2723" column="39" />
       </file>
