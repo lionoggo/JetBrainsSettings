@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/object.dart" timestamp="1547814277788">
@@ -14,6 +14,9 @@
         <mark key="'" line="451" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/model/tt_short_video_model.dart" timestamp="1548923575205" />
+      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterNativeView.class" timestamp="1548991376717">
+        <mark key="'" line="154" column="66" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/flutter/src/main/java/com/ss/android/shortvideo/ShortVideoDetailActivity.java" timestamp="1547958219549">
         <mark key="[" line="220" column="56" />
       </file>
@@ -51,6 +54,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/example/android/app/build.gradle" timestamp="1548925756285">
         <mark key="[" line="69" column="68" />
       </file>
+      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/MethodChannel.class" timestamp="1548991471127">
+        <mark key="'" line="17" column="21" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/live_play_layer.dart" timestamp="1548924924767">
         <mark key="'" line="31" column="51" />
         <mark key="[" line="48" column="30" />
@@ -71,13 +77,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2762" column="11" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
-      <jump line="2774" column="50" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
-      <jump line="54" column="20" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
-      <jump line="2701" column="42" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
-      <jump line="2708" column="21" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
-      <jump line="2714" column="56" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
-      <jump line="2723" column="39" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" />
       <jump line="187" column="42" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
       <jump line="193" column="34" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
       <jump line="196" column="32" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
@@ -171,6 +170,13 @@
       <jump line="219" column="12" filename="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/detail/item_content/short_video_play_layer.dart" />
       <jump line="220" column="12" filename="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/detail/item_content/short_video_play_layer.dart" />
       <jump line="451" column="28" filename="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/detail/item_content/short_video_play_layer.dart" />
+      <jump line="79" column="66" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/MethodChannel.class" />
+      <jump line="22" column="52" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterNativeView.class" />
+      <jump line="42" column="13" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterNativeView.class" />
+      <jump line="141" column="17" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterNativeView.class" />
+      <jump line="143" column="17" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterNativeView.class" />
+      <jump line="154" column="66" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterNativeView.class" />
+      <jump line="17" column="21" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/MethodChannel.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -180,7 +186,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>onBuildScheduled</text>
+        <text>mMessageHandlers</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICApOwogICAgICB9Cg==</text>
@@ -212,13 +218,13 @@
         <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
-        <text>/onBuildScheduled</text>
+        <text>/mMessageHandlers</text>
       </register>
     </registers>
     <search>
-      <last-search>onBuildScheduled</last-search>
+      <last-search>mMessageHandlers</last-search>
       <last-offset />
-      <last-pattern>onBuildScheduled</last-pattern>
+      <last-pattern>mMessageHandlers</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -242,9 +248,9 @@
         <entry>kw</entry>
         <entry>flutterView</entry>
         <entry>onBuildScheduled</entry>
+        <entry>mMessageHandlers</entry>
       </history-search>
       <history-cmd>
-        <entry>/onKeyUP</entry>
         <entry>/mOnkeyListener</entry>
         <entry>/mOnKeyListener</entry>
         <entry>/mDecor</entry>
@@ -264,6 +270,7 @@
         <entry>/kw</entry>
         <entry>/flutterView</entry>
         <entry>/onBuildScheduled</entry>
+        <entry>/mMessageHandlers</entry>
       </history-cmd>
       <history-expr />
       <history-input />
