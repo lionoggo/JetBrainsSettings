@@ -20,36 +20,13 @@
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/flutter/src/main/java/com/ss/android/shortvideo/ShortVideoDetailActivity.java" timestamp="1547958219549">
         <mark key="[" line="220" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/detail/short_video_detail_single_page.dart" timestamp="1548924002617">
-        <mark key="'" line="42" column="16" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-      </file>
+      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/MessageCodec.class" timestamp="1548992430447" />
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" timestamp="1547952267307">
         <mark key="'" line="584" column="115" />
-      </file>
-      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterMain.class" timestamp="1547724809956">
-        <mark key="'" line="87" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/detail/short_video_detail_page.dart" timestamp="1548923563980">
         <mark key="'" line="454" column="24" />
         <mark key="[" line="323" column="67" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/live_transition.dart" timestamp="1548924840676">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="24" column="14" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/view.dart" timestamp="1547813307624">
-        <mark key="'" line="197" column="19" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="." line="190" column="0" />
-      </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/binding.dart" timestamp="1547813564926">
-        <mark key="'" line="284" column="23" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/example/android/app/build.gradle" timestamp="1548925756285">
         <mark key="[" line="69" column="68" />
@@ -57,28 +34,45 @@
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/MethodChannel.class" timestamp="1548991471127">
         <mark key="'" line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1547793553266">
+        <mark key="'" line="2100" column="15" />
+      </file>
+      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/EventChannel.class" timestamp="1548992973282">
+        <mark key="'" line="51" column="27" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="51" column="53" />
+      </file>
+      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/BinaryCodec.class" timestamp="1548992436500" />
+      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/detail/short_video_detail_single_page.dart" timestamp="1548924002617">
+        <mark key="'" line="42" column="16" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+      </file>
+      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterMain.class" timestamp="1547724809956">
+        <mark key="'" line="87" column="17" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/live_transition.dart" timestamp="1548924840676">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="24" column="14" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/StandardMessageCodec.class" timestamp="1548992465899" />
+      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/StringCodec.class" timestamp="1548992615111" />
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/binding.dart" timestamp="1547813564926">
+        <mark key="'" line="284" column="23" />
+      </file>
+      <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/JSONMessageCodec.class" timestamp="1548992454400" />
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/live_play_layer.dart" timestamp="1548924924767">
         <mark key="'" line="31" column="51" />
         <mark key="[" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1547793824240">
-        <mark key="'" line="716" column="47" />
-        <mark key="[" line="633" column="72" />
-        <mark key="]" line="633" column="70" />
-        <mark key="." line="633" column="70" />
-      </file>
-      <file name="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/ui/window.dart" timestamp="1547813471278">
-        <mark key="[" line="611" column="41" />
-        <mark key="]" line="611" column="41" />
-        <mark key="." line="611" column="41" />
-      </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1547793553266">
-        <mark key="'" line="2100" column="15" />
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/services/platform_channel.dart" timestamp="1548994483344">
+        <mark key="'" line="70" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="42" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
-      <jump line="193" column="34" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
       <jump line="196" column="32" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
       <jump line="99" column="44" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.common/push/2.2.2.5/ea04a8c9a44afd438e3174c02b13c7e7d59ba6c9/push-2.2.2.5-sources.jar!/com/ss/android/pushmanager/MessageConstants.java" />
       <jump line="218" column="15" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
@@ -177,10 +171,12 @@
       <jump line="143" column="17" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterNativeView.class" />
       <jump line="154" column="66" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterNativeView.class" />
       <jump line="17" column="21" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/MethodChannel.class" />
+      <jump line="51" column="27" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/EventChannel.class" />
+      <jump line="70" column="26" filename="$USER_HOME$/flutter/packages/flutter/lib/src/services/platform_channel.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICApOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhbGwubWV0aG9kLmVxdWFscygibGlzdGVuIikpIHsKICAgICAgICAgICAgICAgIHRoaXMub25MaXN0ZW4oY2FsbC5hcmd1bWVudHMsIHJlcGx5KTsK</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -189,33 +185,33 @@
         <text>mMessageHandlers</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICApOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhbGwubWV0aG9kLmVxdWFscygibGlzdGVuIikpIHsKICAgICAgICAgICAgICAgIHRoaXMub25MaXN0ZW4oY2FsbC5hcmd1bWVudHMsIHJlcGx5KTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICApOwogICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICB2b2lkIGNvbXBvc2l0ZUZyYW1lKCkgewogICAgVGltZWxpbmUuc3RhcnRTeW5jKCdDb21wb3NpdGluZycsIGFyZ3VtZW50czogdGltZWxpbmVXaGl0ZWxpc3RBcmd1bWVudHMpOwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>, which
   /// proceeds as follows:
   /</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBtVmlld1BhZ2Uuc2V0QWRhcHRlcihtQWRhcHRlcik7CiAgICAgICAgbVRvcENhdGVnb3J5U3RyaXAuc2V0T25UYWJDbGlja0xpc3RlbmVyKG5ldyBYR0NhdGVnb3J5VGFiU3RyaXAub25DYXRlZ29yeVRhYkxpc3RlbmVyKCkgewo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtQWRhcHRlciA9IG5ldyBMaXZlQ2hhbm5lbEFkYXB0ZXIobVZpZXdQYWdlLCBnZXRDaGlsZEZyYWdtZW50TWFuYWdlcigpLCBuZXcgQXJyYXlMaXN0PExpdmVDaGFubmVsPigpKTsKICAgICAgICBtVmlld1BhZ2Uuc2V0QWRhcHRlcihtQWRhcHRlcik7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0KCkgewogICAgICAgIGlmIChMb2dnZXIuZGVidWcoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBtQWRhcHRlciA9IG5ldyBMaXZlQ2hhbm5lbEFkYXB0ZXIobVZpZXdQYWdlLCBnZXRDaGlsZEZyYWdtZW50TWFuYWdlcigpLCBuZXcgQXJyYXlMaXN0PExpdmVDaGFubmVsPigpKTsKICAgICAgICBtVmlld1BhZ2Uuc2V0QWRhcHRlcihtQWRhcHRlcik7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0KCkgewogICAgICAgIGlmIChMb2dnZXIuZGVidWcoKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0KCkgewogICAgICAgIGlmIChMb2dnZXIuZGVidWcoKSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>/mMessageHandlers</text>
