@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/detail/item_content/short_video_play_layer.dart" timestamp="1548924525699">
@@ -9,9 +9,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/model/tt_short_video_model.dart" timestamp="1548923575205" />
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterNativeView.class" timestamp="1548991376717">
         <mark key="'" line="154" column="66" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/flutter/src/main/java/com/ss/android/shortvideo/ShortVideoDetailActivity.java" timestamp="1547958219549">
-        <mark key="[" line="220" column="56" />
       </file>
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/MessageCodec.class" timestamp="1548992430447" />
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" timestamp="1547952267307">
@@ -26,6 +23,9 @@
       </file>
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/MethodChannel.class" timestamp="1548991471127">
         <mark key="'" line="17" column="21" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/api/RoomApi.java" timestamp="1549092339623">
+        <mark key="'" line="1786" column="25" />
       </file>
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1547793553266">
         <mark key="'" line="2100" column="15" />
@@ -45,11 +45,17 @@
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterMain.class" timestamp="1547724809956">
         <mark key="'" line="87" column="17" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/RoomStatusManager.java" timestamp="1549092337747">
+        <mark key="'" line="71" column="40" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/live_transition.dart" timestamp="1548924840676">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="^" line="24" column="14" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionView.java" timestamp="1549092210876">
+        <mark key="'" line="68" column="33" />
       </file>
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/StandardMessageCodec.class" timestamp="1548992465899" />
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/StringCodec.class" timestamp="1548992615111" />
@@ -66,9 +72,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="32" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
-      <jump line="99" column="44" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.common/push/2.2.2.5/ea04a8c9a44afd438e3174c02b13c7e7d59ba6c9/push-2.2.2.5-sources.jar!/com/ss/android/pushmanager/MessageConstants.java" />
-      <jump line="218" column="15" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
       <jump line="38" column="33" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/ss/android/common/app/data/AppSettings.java" />
       <jump line="43" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/sp/BaseSettings.java" />
       <jump line="813" column="51" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
@@ -166,6 +169,9 @@
       <jump line="17" column="21" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/MethodChannel.class" />
       <jump line="51" column="27" filename="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/EventChannel.class" />
       <jump line="70" column="26" filename="$USER_HOME$/flutter/packages/flutter/lib/src/services/platform_channel.dart" />
+      <jump line="68" column="33" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionView.java" />
+      <jump line="71" column="40" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/RoomStatusManager.java" />
+      <jump line="1786" column="25" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/api/RoomApi.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
