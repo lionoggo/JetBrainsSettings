@@ -10,11 +10,12 @@
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterNativeView.class" timestamp="1548991376717">
         <mark key="'" line="154" column="66" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/flutter_status/lib/main.dart" timestamp="1549094510100">
-        <mark key="'" line="112" column="6" />
-        <mark key="[" line="100" column="33" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/flutter_status/lib/main.dart" timestamp="1549099063585">
+        <mark key="'" line="150" column="31" />
+        <mark key="[" line="152" column="31" />
+        <mark key="]" line="150" column="0" />
+        <mark key="^" line="150" column="0" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/flutter/src/main/java/com/ss/android/shortvideo/ShortVideoDetailActivity.java" timestamp="1547958219549">
         <mark key="[" line="220" column="56" />
@@ -45,17 +46,17 @@
         <mark key="]" line="51" column="53" />
       </file>
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/BinaryCodec.class" timestamp="1548992436500" />
-      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/detail/short_video_detail_single_page.dart" timestamp="1548924002617">
-        <mark key="'" line="42" column="16" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-      </file>
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterMain.class" timestamp="1547724809956">
         <mark key="'" line="87" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/RoomStatusManager.java" timestamp="1549092337747">
         <mark key="'" line="71" column="40" />
+      </file>
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/heroes.dart" timestamp="1549099558187">
+        <mark key="[" line="85" column="16" />
+        <mark key="]" line="85" column="15" />
+        <mark key="." line="85" column="15" />
+        <mark key="^" line="85" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/live_transition.dart" timestamp="1548924840676">
         <mark key="[" line="12" column="0" />
@@ -71,26 +72,17 @@
         <mark key="^" line="100" column="22" />
       </file>
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/StandardMessageCodec.class" timestamp="1548992465899" />
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/view.dart" timestamp="1547813307624">
-        <mark key="'" line="197" column="19" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="." line="190" column="0" />
-      </file>
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/StringCodec.class" timestamp="1548992615111" />
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/binding.dart" timestamp="1547813564926">
         <mark key="'" line="284" column="23" />
       </file>
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/JSONMessageCodec.class" timestamp="1548992454400" />
+      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/material/floating_action_button.dart" timestamp="1549099160871">
+        <mark key="'" line="189" column="2" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/live_play_layer.dart" timestamp="1548924924767">
         <mark key="'" line="31" column="51" />
         <mark key="[" line="48" column="30" />
-      </file>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1547793824240">
-        <mark key="'" line="716" column="47" />
-        <mark key="[" line="633" column="72" />
-        <mark key="]" line="633" column="70" />
-        <mark key="." line="633" column="70" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionEndView.java" timestamp="1549096639642">
         <mark key="'" line="246" column="8" />
@@ -103,11 +95,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="23" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/bytedance/article/common/monitor/LaunchUtils.java" />
-      <jump line="84" column="23" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/bytedance/article/common/monitor/LaunchUtils.java" />
-      <jump line="73" column="8" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/bytedance/article/common/monitor/LaunchUtils.java" />
-      <jump line="228" column="26" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
-      <jump line="99" column="4" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/square/TabLiveSquareFragment.java" />
       <jump line="137" column="48" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/square/TabLiveSquareFragment.java" />
       <jump line="12" column="43" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/res-square/layout/xigualive_square_tab_fragment.xml" />
       <jump line="163" column="20" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/square/TabLiveSquareFragment.java" />
@@ -203,63 +190,67 @@
       <jump line="236" column="31" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionEndView.java" />
       <jump line="32" column="81" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionEndView.java" />
       <jump line="246" column="8" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionEndView.java" />
+      <jump line="105" column="27" filename="$USER_HOME$/AndroidStudioProjects/flutter_status/lib/main.dart" />
+      <jump line="150" column="31" filename="$USER_HOME$/AndroidStudioProjects/flutter_status/lib/main.dart" />
+      <jump line="67" column="11" filename="$USER_HOME$/flutter/packages/flutter/lib/src/material/floating_action_button.dart" />
+      <jump line="151" column="13" filename="$USER_HOME$/flutter/packages/flutter/lib/src/material/floating_action_button.dart" />
+      <jump line="189" column="2" filename="$USER_HOME$/flutter/packages/flutter/lib/src/material/floating_action_button.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Sb29tU3RhdHVzTWFuYWdlckxpc3RlbmVyLm9uTGl2ZUVuZChmYWxzZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>mRoomStatusManagerListener.onLiveEnd(false);</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>Float</text>
+        <text>154</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1Sb29tU3RhdHVzTWFuYWdlckxpc3RlbmVyLm9uTGl2ZUVuZChmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Sb29tU3RhdHVzTWFuYWdlckxpc3RlbmVyLm9uTGl2ZUVuZChmYWxzZSk7Cg==</text>
+        <text encoding="base64">Ly8vIGJlIGhlbHBmdWwgZm9yIG9yaWVudGluZyB0aGUgdXNlciBmb3IgdGhlIGZlYXR1cmUgdG8gcGh5c2ljYWxseSBtb3ZlIGZyb20K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Sb29tU3RhdHVzTWFuYWdlckxpc3RlbmVyLm9uTGl2ZUVuZChmYWxzZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBidWlsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBjcmVhdGVTdGF0ZQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBidWlsZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhbGwubWV0aG9kLmVxdWFscygibGlzdGVuIikpIHsKICAgICAgICAgICAgICAgIHRoaXMub25MaXN0ZW4oY2FsbC5hcmd1bWVudHMsIHJlcGx5KTsK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBjcmVhdGVTdGF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhbGwubWV0aG9kLmVxdWFscygibGlzdGVuIikpIHsKICAgICAgICAgICAgICAgIHRoaXMub25MaXN0ZW4oY2FsbC5hcmd1bWVudHMsIHJlcGx5KTsK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICApOwogICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICB2b2lkIGNvbXBvc2l0ZUZyYW1lKCkgewogICAgVGltZWxpbmUuc3RhcnRTeW5jKCdDb21wb3NpdGluZycsIGFyZ3VtZW50czogdGltZWxpbmVXaGl0ZWxpc3RBcmd1bWVudHMpOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>, which
   /// proceeds as follows:
   /</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
       <register name=":" type="4">
-        <text>/Float</text>
+        <text>154</text>
       </register>
     </registers>
     <search>
-      <last-search>Float</last-search>
+      <last-search>154</last-search>
       <last-offset />
-      <last-pattern>Float</last-pattern>
+      <last-pattern>154</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onKeyUP</entry>
         <entry>mOnkeyListener</entry>
         <entry>mOnKeyListener</entry>
         <entry>mDecor</entry>
@@ -279,10 +270,9 @@
         <entry>onBuildScheduled</entry>
         <entry>mMessageHandlers</entry>
         <entry>Float</entry>
+        <entry>154</entry>
       </history-search>
       <history-cmd>
-        <entry>/mOnKeyListener</entry>
-        <entry>/mDecor</entry>
         <entry>/onKeyUp</entry>
         <entry>/mPrivateFlags</entry>
         <entry>/newInstance</entry>
@@ -301,6 +291,8 @@
         <entry>/onBuildScheduled</entry>
         <entry>/mMessageHandlers</entry>
         <entry>/Float</entry>
+        <entry>/154</entry>
+        <entry>154</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -317,6 +309,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
