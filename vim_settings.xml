@@ -1,15 +1,8 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/object.dart" timestamp="1547814277788">
-        <mark key="'" line="950" column="23" />
-        <mark key="[" line="1492" column="31" />
-        <mark key="]" line="1492" column="30" />
-        <mark key="^" line="1492" column="30" />
-        <mark key="." line="1492" column="30" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/detail/item_content/short_video_play_layer.dart" timestamp="1548924525699">
         <mark key="'" line="451" column="28" />
       </file>
