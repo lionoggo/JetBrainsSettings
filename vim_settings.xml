@@ -63,8 +63,12 @@
         <mark key="^" line="24" column="14" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionView.java" timestamp="1549092210876">
-        <mark key="'" line="68" column="33" />
+      <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionView.java" timestamp="1549096423432">
+        <mark key="'" line="29" column="12" />
+        <mark key="[" line="102" column="16" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="102" column="19" />
+        <mark key="^" line="100" column="22" />
       </file>
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/StandardMessageCodec.class" timestamp="1548992465899" />
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/rendering/view.dart" timestamp="1547813307624">
@@ -88,6 +92,9 @@
         <mark key="]" line="633" column="70" />
         <mark key="." line="633" column="70" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionEndView.java" timestamp="1549096639642">
+        <mark key="'" line="246" column="8" />
+      </file>
       <file name="/fragment.java" timestamp="1549093719318">
         <mark key="[" line="0" column="0" />
       </file>
@@ -96,13 +103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/sp/BaseSettings.java" />
-      <jump line="813" column="51" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
-      <jump line="64" column="20" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/ss/android/common/app/data/AppSettings.java" />
-      <jump line="224" column="27" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
-      <jump line="70" column="30" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/bytedance/article/common/monitor/LaunchUtils.java" />
-      <jump line="192" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/file/EnvironmentUtils.java" />
-      <jump line="72" column="23" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/bytedance/article/common/monitor/LaunchUtils.java" />
       <jump line="83" column="23" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/bytedance/article/common/monitor/LaunchUtils.java" />
       <jump line="84" column="23" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/bytedance/article/common/monitor/LaunchUtils.java" />
       <jump line="73" column="8" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/bytedance/article/common/monitor/LaunchUtils.java" />
@@ -196,45 +196,55 @@
       <jump line="71" column="40" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/RoomStatusManager.java" />
       <jump line="1786" column="25" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/api/RoomApi.java" />
       <jump line="104" column="6" filename="$USER_HOME$/AndroidStudioProjects/flutter_status/lib/main.dart" />
+      <jump line="186" column="37" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionEndView.java" />
+      <jump line="29" column="12" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionView.java" />
+      <jump line="141" column="13" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionEndView.java" />
+      <jump line="241" column="38" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionEndView.java" />
+      <jump line="236" column="31" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionEndView.java" />
+      <jump line="32" column="81" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionEndView.java" />
+      <jump line="246" column="8" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionEndView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Sb29tU3RhdHVzTWFuYWdlckxpc3RlbmVyLm9uTGl2ZUVuZChmYWxzZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>mRoomStatusManagerListener.onLiveEnd(false);</text>
       </register>
       <register name="/" type="4">
         <text>Float</text>
       </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Sb29tU3RhdHVzTWFuYWdlckxpc3RlbmVyLm9uTGl2ZUVuZChmYWxzZSk7Cg==</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Sb29tU3RhdHVzTWFuYWdlckxpc3RlbmVyLm9uTGl2ZUVuZChmYWxzZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBidWlsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBjcmVhdGVTdGF0ZQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBidWlsZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhbGwubWV0aG9kLmVxdWFscygibGlzdGVuIikpIHsKICAgICAgICAgICAgICAgIHRoaXMub25MaXN0ZW4oY2FsbC5hcmd1bWVudHMsIHJlcGx5KTsK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBjcmVhdGVTdGF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhbGwubWV0aG9kLmVxdWFscygibGlzdGVuIikpIHsKICAgICAgICAgICAgICAgIHRoaXMub25MaXN0ZW4oY2FsbC5hcmd1bWVudHMsIHJlcGx5KTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICApOwogICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICB2b2lkIGNvbXBvc2l0ZUZyYW1lKCkgewogICAgVGltZWxpbmUuc3RhcnRTeW5jKCdDb21wb3NpdGluZycsIGFyZ3VtZW50czogdGltZWxpbmVXaGl0ZWxpc3RBcmd1bWVudHMpOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>, which
   /// proceeds as follows:
   /</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtVmlld1BhZ2Uuc2V0QWRhcHRlcihtQWRhcHRlcik7CiAgICAgICAgbVRvcENhdGVnb3J5U3RyaXAuc2V0T25UYWJDbGlja0xpc3RlbmVyKG5ldyBYR0NhdGVnb3J5VGFiU3RyaXAub25DYXRlZ29yeVRhYkxpc3RlbmVyKCkgewo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>/Float</text>
