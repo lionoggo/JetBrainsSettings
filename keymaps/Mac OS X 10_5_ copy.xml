@@ -10,9 +10,6 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
-  <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="alt h" />
-  </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
