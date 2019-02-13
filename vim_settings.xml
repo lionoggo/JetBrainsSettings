@@ -29,6 +29,12 @@
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1547793553266">
         <mark key="'" line="2100" column="15" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/ui/live_transition.dart" timestamp="1550062051011">
+        <mark key="'" line="65" column="10" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/xigualive/src/main/java/com/ss/android/xigualive/tiktok/TikTokLiveController.java" timestamp="1550061758209">
+        <mark key="'" line="334" column="0" />
+      </file>
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/EventChannel.class" timestamp="1549855143344">
         <mark key="'" line="51" column="27" />
         <mark key="[" line="50" column="0" />
@@ -78,12 +84,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="20" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/square/TabLiveSquareFragment.java" />
-      <jump line="149" column="8" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/square/TabLiveSquareFragment.java" />
-      <jump line="165" column="91" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/square/TabLiveSquareFragment.java" />
-      <jump line="166" column="74" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/square/TabLiveSquareFragment.java" />
-      <jump line="167" column="77" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/square/TabLiveSquareFragment.java" />
-      <jump line="174" column="25" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/square/TabLiveSquareFragment.java" />
       <jump line="132" column="62" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/XGSearchBlock.java" />
       <jump line="871" column="20" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchScene.java" />
       <jump line="78" column="26" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchRootScene.java" />
@@ -178,6 +178,12 @@
       <jump line="189" column="2" filename="$USER_HOME$/flutter/packages/flutter/lib/src/material/floating_action_button.dart" />
       <jump line="418" column="24" filename="$USER_HOME$/flutter/packages/flutter/lib/src/services/platform_channel.dart" />
       <jump line="131" column="0" filename="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/model/live_room_model.dart" />
+      <jump line="61" column="8" filename="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/xigualive/src/main/java/com/ss/android/xigualive/tiktok/TikTokLiveController.java" />
+      <jump line="67" column="44" filename="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/xigualive/src/main/java/com/ss/android/xigualive/tiktok/TikTokLiveController.java" />
+      <jump line="334" column="0" filename="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/xigualive/src/main/java/com/ss/android/xigualive/tiktok/TikTokLiveController.java" />
+      <jump line="44" column="28" filename="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/ui/live_transition.dart" />
+      <jump line="46" column="25" filename="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/ui/live_transition.dart" />
+      <jump line="65" column="10" filename="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/ui/live_transition.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -187,7 +193,7 @@
         <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>154</text>
+        <text>39</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1Sb29tU3RhdHVzTWFuYWdlckxpc3RlbmVyLm9uTGl2ZUVuZChmYWxzZSk7Cg==</text>
@@ -226,15 +232,14 @@
       </register>
     </registers>
     <search>
-      <last-search>154</last-search>
+      <last-search>39</last-search>
       <last-offset />
-      <last-pattern>154</last-pattern>
+      <last-pattern>39</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mOnkeyListener</entry>
         <entry>mOnKeyListener</entry>
         <entry>mDecor</entry>
         <entry>onKeyUp</entry>
@@ -254,9 +259,9 @@
         <entry>mMessageHandlers</entry>
         <entry>Float</entry>
         <entry>154</entry>
+        <entry>39</entry>
       </history-search>
       <history-cmd>
-        <entry>/onKeyUp</entry>
         <entry>/mPrivateFlags</entry>
         <entry>/newInstance</entry>
         <entry>/LAUNCH_ACTIVITY</entry>
@@ -276,6 +281,7 @@
         <entry>/Float</entry>
         <entry>/154</entry>
         <entry>154</entry>
+        <entry>/39</entry>
       </history-cmd>
       <history-expr />
       <history-input />
