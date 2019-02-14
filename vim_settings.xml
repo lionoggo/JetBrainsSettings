@@ -28,6 +28,12 @@
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/MethodChannel.class" timestamp="1549512499221">
         <mark key="'" line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/ui/images/live_transition_images.dart" timestamp="1550131483186">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/api/RoomApi.java" timestamp="1549092339623">
         <mark key="'" line="1786" column="25" />
       </file>
@@ -52,12 +58,16 @@
       <file name="/Dummy.txt" timestamp="1550063165245">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/ui/loading/loading_widget.dart" timestamp="1550130488855">
+        <mark key="[" line="13" column="20" />
+      </file>
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/view/FlutterMain.class" timestamp="1547724809956">
         <mark key="'" line="87" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/RoomStatusManager.java" timestamp="1549092337747">
         <mark key="'" line="71" column="40" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/image/short_video_images.dart" timestamp="1550131008612" />
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/model/live_room_model.dart" timestamp="1549971525986">
         <mark key="'" line="130" column="0" />
       </file>
