@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/detail/item_content/short_video_play_layer.dart" timestamp="1548924525699">
@@ -62,8 +62,10 @@
       <file name="/Dummy.txt" timestamp="1550752599441">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/xg_live_transition/pubspec.yaml" timestamp="1550750470932">
-        <mark key="[" line="16" column="11" />
+      <file name="$USER_HOME$/AndroidStudioProjects/xg_live_transition/pubspec.yaml" timestamp="1550755487332">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/ui/loading/loading_widget.dart" timestamp="1550130488855">
         <mark key="[" line="13" column="20" />
@@ -211,11 +213,11 @@
       <jump line="70" column="0" filename="$USER_HOME$/Desktop/live_transition/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ki5sb2NrCg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>clip</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>39</text>
