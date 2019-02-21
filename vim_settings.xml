@@ -24,6 +24,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" timestamp="1547952267307">
         <mark key="'" line="584" column="115" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/xg_live_transition/.gitignore" timestamp="1550750775076">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/live_transition/.gitignore" timestamp="1550748974071">
         <mark key="'" line="70" column="0" />
       </file>
@@ -49,8 +54,11 @@
         <mark key="'" line="334" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/res/layout/xigualive_live_player_transition_layout.xml" timestamp="1550718147276" />
-      <file name="/Dummy.txt" timestamp="1550063165245">
+      <file name="/Dummy.txt" timestamp="1550751176187">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/xg_live_transition/pubspec.yaml" timestamp="1550750470932">
+        <mark key="[" line="16" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/ui/loading/loading_widget.dart" timestamp="1550130488855">
         <mark key="[" line="13" column="20" />
@@ -60,6 +68,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/RoomStatusManager.java" timestamp="1549092337747">
         <mark key="'" line="71" column="40" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/xg_live_transition/android/.gitignore" timestamp="1550750861831">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/model/live_room_model.dart" timestamp="1549971525986">
         <mark key="'" line="130" column="0" />
@@ -195,8 +206,8 @@
       <jump line="70" column="0" filename="$USER_HOME$/Desktop/live_transition/.gitignore" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>clip</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ki5sb2NrCg==</text>
       </register>
       <register name="-" type="4">
         <text>clip</text>
@@ -208,33 +219,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1Sb29tU3RhdHVzTWFuYWdlckxpc3RlbmVyLm9uTGl2ZUVuZChmYWxzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8vIGJlIGhlbHBmdWwgZm9yIG9yaWVudGluZyB0aGUgdXNlciBmb3IgdGhlIGZlYXR1cmUgdG8gcGh5c2ljYWxseSBtb3ZlIGZyb20K</text>
+        <text encoding="base64">Ki5sb2NrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Sb29tU3RhdHVzTWFuYWdlckxpc3RlbmVyLm9uTGl2ZUVuZChmYWxzZSk7Cg==</text>
+        <text encoding="base64">Ly8vIGJlIGhlbHBmdWwgZm9yIG9yaWVudGluZyB0aGUgdXNlciBmb3IgdGhlIGZlYXR1cmUgdG8gcGh5c2ljYWxseSBtb3ZlIGZyb20K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Sb29tU3RhdHVzTWFuYWdlckxpc3RlbmVyLm9uTGl2ZUVuZChmYWxzZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBidWlsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBjcmVhdGVTdGF0ZQo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBidWlsZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhbGwubWV0aG9kLmVxdWFscygibGlzdGVuIikpIHsKICAgICAgICAgICAgICAgIHRoaXMub25MaXN0ZW4oY2FsbC5hcmd1bWVudHMsIHJlcGx5KTsK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBjcmVhdGVTdGF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNhbGwubWV0aG9kLmVxdWFscygibGlzdGVuIikpIHsKICAgICAgICAgICAgICAgIHRoaXMub25MaXN0ZW4oY2FsbC5hcmd1bWVudHMsIHJlcGx5KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2b2lkIGNvbXBvc2l0ZUZyYW1lKCkgewogICAgVGltZWxpbmUuc3RhcnRTeW5jKCdDb21wb3NpdGluZycsIGFyZ3VtZW50czogdGltZWxpbmVXaGl0ZWxpc3RBcmd1bWVudHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICApOwogICAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>, which
-  /// proceeds as follows:
-  /</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB2b2lkIGNvbXBvc2l0ZUZyYW1lKCkgewogICAgVGltZWxpbmUuc3RhcnRTeW5jKCdDb21wb3NpdGluZycsIGFyZ3VtZW50czogdGltZWxpbmVXaGl0ZWxpc3RBcmd1bWVudHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>124</text>
