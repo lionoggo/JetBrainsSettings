@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/detail/item_content/short_video_play_layer.dart" timestamp="1548924525699">
@@ -23,6 +23,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/tiktok/src/main/java/com/ss/android/ugc/detail/feed/fragment/ArticleHuoshanFragment.java" timestamp="1547952267307">
         <mark key="'" line="584" column="115" />
+      </file>
+      <file name="$USER_HOME$/Desktop/live_transition/.gitignore" timestamp="1550748974071">
+        <mark key="'" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/flutter/bin/cache/artifacts/engine/android-arm/flutter.jar!/io/flutter/plugin/common/MethodChannel.class" timestamp="1549512499221">
         <mark key="'" line="17" column="21" />
@@ -90,9 +93,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="35" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" />
-      <jump line="26" column="34" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" />
-      <jump line="35" column="45" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/main/NewsCenterActivity.java" />
       <jump line="41" column="45" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/main/NewsCenterActivity.java" />
       <jump line="22" column="11" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/MyDelegate.java" />
       <jump line="41" column="53" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" />
@@ -190,6 +190,9 @@
       <jump line="194" column="47" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LivePlayerTransitionView.java" />
       <jump line="380" column="44" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LivePlayerTransitionView.java" />
       <jump line="123" column="63" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LivePlayerTransitionView.java" />
+      <jump line="41" column="19" filename="$USER_HOME$/Desktop/live_transition/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/live_transition/.gitignore" />
+      <jump line="70" column="0" filename="$USER_HOME$/Desktop/live_transition/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
