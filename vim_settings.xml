@@ -16,7 +16,6 @@
         <mark key="^" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/model/live_room_model.g.dart" timestamp="1550024822632" />
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/ui/live_play_info_layer.dart" timestamp="1550063830052">
         <mark key="]" line="33" column="32" />
         <mark key="^" line="33" column="32" />
@@ -46,10 +45,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/xigualive/src/main/java/com/ss/android/xigualive/tiktok/TikTokLiveController.java" timestamp="1550061758209">
         <mark key="'" line="334" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/res/drawable/xigualive_bg_live_transition_enter_live_room.xml" timestamp="1550063230879" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-1/files-1.1/commonui-0.6.7.7.aar/133050a1e0d1e292888bdc52cc9a09e4/res/values/values.xml" timestamp="1550063272480" />
-      <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/ui/live_play_layer.dart" timestamp="1549976981191" />
-      <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/res/layout/xigualive_live_player_transition_layout.xml" timestamp="1550063683623" />
+      <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/res/layout/xigualive_live_player_transition_layout.xml" timestamp="1550718147276" />
       <file name="/Dummy.txt" timestamp="1550063165245">
         <mark key="[" line="0" column="0" />
       </file>
@@ -62,7 +58,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/RoomStatusManager.java" timestamp="1549092337747">
         <mark key="'" line="71" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/image/short_video_images.dart" timestamp="1550131008612" />
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/model/live_room_model.dart" timestamp="1549971525986">
         <mark key="'" line="130" column="0" />
       </file>
@@ -79,19 +74,22 @@
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/material/floating_action_button.dart" timestamp="1549099160871">
         <mark key="'" line="189" column="2" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/base_plugins/live_player/lib/live_player.dart" timestamp="1549976586576" />
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionEndView.java" timestamp="1550132829462">
         <mark key="'" line="246" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LivePlayerTransitionView.java" timestamp="1550132602288">
-        <mark key="'" line="380" column="44" />
+      <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LivePlayerTransitionView.java" timestamp="1550718048249">
+        <mark key="'" line="123" column="63" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/ui/bottom_bar.dart" timestamp="1550718726465">
+        <mark key="]" line="74" column="12" />
+        <mark key="." line="74" column="12" />
+        <mark key="^" line="74" column="12" />
       </file>
       <file name="$USER_HOME$/flutter/packages/flutter/lib/src/services/platform_channel.dart" timestamp="1549514540522">
         <mark key="'" line="418" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="26" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchRootScene.java" />
       <jump line="19" column="35" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" />
       <jump line="26" column="34" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" />
       <jump line="35" column="45" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/main/NewsCenterActivity.java" />
@@ -191,13 +189,14 @@
       <jump line="29" column="35" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionView.java" />
       <jump line="194" column="47" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LivePlayerTransitionView.java" />
       <jump line="380" column="44" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LivePlayerTransitionView.java" />
+      <jump line="123" column="63" filename="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LivePlayerTransitionView.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>clip</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>clip</text>
       </register>
       <register name="/" type="4">
         <text>39</text>
@@ -235,7 +234,7 @@
   /</text>
       </register>
       <register name=":" type="4">
-        <text>154</text>
+        <text>124</text>
       </register>
     </registers>
     <search>
@@ -269,7 +268,6 @@
         <entry>39</entry>
       </history-search>
       <history-cmd>
-        <entry>/mPrivateFlags</entry>
         <entry>/newInstance</entry>
         <entry>/LAUNCH_ACTIVITY</entry>
         <entry>/mData</entry>
@@ -289,6 +287,7 @@
         <entry>/154</entry>
         <entry>154</entry>
         <entry>/39</entry>
+        <entry>124</entry>
       </history-cmd>
       <history-expr />
       <history-input />
