@@ -67,6 +67,9 @@
         <mark key="]" line="16" column="15" />
         <mark key="." line="16" column="15" />
       </file>
+      <file name="$USER_HOME$/Desktop/Dong/flutter_plugin/android/src/main/java/com/example/flutterplugin/FlutterPlugin.java" timestamp="1550831918648">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/ui/loading/loading_widget.dart" timestamp="1550130488855">
         <mark key="[" line="13" column="20" />
       </file>
@@ -111,7 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="45" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/main/NewsCenterActivity.java" />
       <jump line="22" column="11" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/MyDelegate.java" />
       <jump line="41" column="53" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" />
       <jump line="61" column="15" filename="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/BottomNavigationActivity.java" />
@@ -211,6 +213,7 @@
       <jump line="41" column="19" filename="$USER_HOME$/Desktop/live_transition/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/live_transition/.gitignore" />
       <jump line="70" column="0" filename="$USER_HOME$/Desktop/live_transition/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/Dong/flutter_plugin/android/src/main/java/com/example/flutterplugin/FlutterPlugin.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -220,7 +223,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>39</text>
+        <text>30</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1Sb29tU3RhdHVzTWFuYWdlckxpc3RlbmVyLm9uTGl2ZUVuZChmYWxzZSk7Cg==</text>
@@ -257,15 +260,14 @@
       </register>
     </registers>
     <search>
-      <last-search>39</last-search>
+      <last-search>30</last-search>
       <last-offset />
-      <last-pattern>39</last-pattern>
+      <last-pattern>30</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mOnKeyListener</entry>
         <entry>mDecor</entry>
         <entry>onKeyUp</entry>
         <entry>mPrivateFlags</entry>
@@ -285,9 +287,9 @@
         <entry>Float</entry>
         <entry>154</entry>
         <entry>39</entry>
+        <entry>30</entry>
       </history-search>
       <history-cmd>
-        <entry>/newInstance</entry>
         <entry>/LAUNCH_ACTIVITY</entry>
         <entry>/mData</entry>
         <entry>/put</entry>
@@ -307,6 +309,7 @@
         <entry>154</entry>
         <entry>/39</entry>
         <entry>124</entry>
+        <entry>/30</entry>
       </history-cmd>
       <history-expr />
       <history-input />
