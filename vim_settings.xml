@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/toutiao/tt_flutter_short_video/lib/ui/detail/item_content/short_video_play_layer.dart" timestamp="1548924525699">
@@ -90,6 +90,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/ttvideoapp/Business/XiGuaLive/liveroom/src/main/java/com/ixigua/liveroom/toutiaosmallvideo/LiveTransitionEndView.java" timestamp="1550132829462">
         <mark key="'" line="246" column="8" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/toutiao/ttmain/flutter/build.gradle" timestamp="1551152968934" />
       <file name="$USER_HOME$/AndroidStudioProjects/xigua/xigua_flutter/business_plugins/live_transition/lib/ui/bottom_bar.dart" timestamp="1550718726465">
         <mark key="]" line="74" column="12" />
         <mark key="." line="74" column="12" />
