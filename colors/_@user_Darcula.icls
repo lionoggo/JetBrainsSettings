@@ -4,7 +4,7 @@
     <property name="created">2018-05-02T18:53:01</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.1.0</property>
-    <property name="modified">2019-01-22T20:11:22</property>
+    <property name="modified">2019-03-12T14:53:04</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -22,6 +22,41 @@
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="4caf50" />
+      </value>
+    </option>
+    <option name="FLUTTER_LOG_FINER_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="2196f3" />
+      </value>
+    </option>
+    <option name="FLUTTER_LOG_FINEST_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="2196f3" />
+      </value>
+    </option>
+    <option name="FLUTTER_LOG_FINE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="2196f3" />
+      </value>
+    </option>
+    <option name="FLUTTER_LOG_NONE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="4caf50" />
+      </value>
+    </option>
+    <option name="FLUTTER_LOG_SEVERE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f44336" />
+      </value>
+    </option>
+    <option name="FLUTTER_LOG_SHOUT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="f44336" />
+      </value>
+    </option>
+    <option name="FLUTTER_LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff9800" />
       </value>
     </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
