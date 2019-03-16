@@ -1,130 +1,101 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SSAutoCompleteTextView.java" timestamp="1546599241185" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/video/src/main/java/com/ixigua/feature/video/VideoModuleContext.java" timestamp="1546757542613" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/lightrx/0.0.14/1d527d96c60ebcb0f60bf50ca22254bc8ab6342f/lightrx-0.0.14-sources.jar!/com/ixigua/lightrx/internal/operators/OperatorSubscribeOn.java" timestamp="1546596456251" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/lib_common/src/main/java/com/guiying/module/common/base/BaseActivity.java" timestamp="1546743767488" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/XGSearchBlock.java" timestamp="1546598644865">
-        <mark key="'" line="132" column="62" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" timestamp="1530257933436">
-        <mark key="'" line="434" column="28" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/commonui/0.6.6.6/9596b07b39e4f8401c9051c1142083fa73c583e4/commonui-0.6.6.6-sources.jar!/com/ixigua/commonui/view/cetegorytab/XGCategoryTabStrip.java" timestamp="1546595304176" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/comment/build.gradle" timestamp="1546756996178" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/View.java" timestamp="1527763312372">
-        <mark key="'" line="11712" column="21" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/service/dataloader/loader/impl/MaoYanMovieDataLoader.java" timestamp="1529491156845">
-        <mark key="'" line="55" column="13" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/BusinessAccessLayer/build.gradle" timestamp="1546756937196" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ad/src/com/ss/android/ad/IAdDepend.java" timestamp="1546755240004" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/StrictMode.java" timestamp="1528532396908">
-        <mark key="'" line="913" column="28" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/ss/android/module/live/ILivePreviewService.java" timestamp="1546756579046" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/componentbase/src/main/java/com/loong/componentbase/service/IAccountService.java" timestamp="1546746345354" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" timestamp="1528535393007">
-        <mark key="'" line="51" column="18" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/lang/System.java" timestamp="1528535556799">
-        <mark key="'" line="98" column="33" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/login/src/main/java/com/loong/login/LoginApp.java" timestamp="1546745932426" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/DecorView.java" timestamp="1527762814598">
-        <mark key="'" line="439" column="29" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/ss/android/common/app/data/AppSettings.java" timestamp="1546506709685">
-        <mark key="'" line="64" column="20" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/ss/android/newmedia/activity/BaseScene.java" timestamp="1546598867975" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.module/container/1.0.2/fd4700fd61124f89a00480144947a7c59f066b02/container-1.0.2-sources.jar!/com/bytedance/module/container/creator/SingletonCreatorWrapper.java" timestamp="1546758036284" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/res-square/layout/xigualive_square_tab_fragment.xml" timestamp="1546595288992">
-        <mark key="'" line="12" column="43" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/module/video/IVideoService.java" timestamp="1546757606885" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_app/src/main/java/com/guiying/module/MyApplication.java" timestamp="1546744314232">
-        <mark key="'" line="25" column="12" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.common/push/2.2.2.5/ea04a8c9a44afd438e3174c02b13c7e7d59ba6c9/push-2.2.2.5-sources.jar!/com/ss/android/pushmanager/MessageConstants.java" timestamp="1546506524894">
-        <mark key="'" line="99" column="44" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" timestamp="1546745335983">
-        <mark key="'" line="41" column="53" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/build.gradle" timestamp="1546756635013" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/build.gradle" timestamp="1546743845342" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/BusinessAccessLayer/src/main/java/com/ixigua/accesslayer/common/ModuleConstants.java" timestamp="1546756419083" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/update/src/com/ss/android/update/UpdateModuleContext.java" timestamp="1546758013872" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FileDescriptor.java" timestamp="1528537322586">
-        <mark key="'" line="85" column="50" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/app/src/main/java/com/loong/componentdemo/FragmentActivity.java" timestamp="1546745720050" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/app/src/main/java/com/loong/componentdemo/MainActivity.java" timestamp="1546745788365" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/file/EnvironmentUtils.java" timestamp="1546506886943">
-        <mark key="'" line="192" column="15" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.module/container/1.0.2/fd4700fd61124f89a00480144947a7c59f066b02/container-1.0.2-sources.jar!/com/bytedance/module/container/AppServiceManager.java" timestamp="1546758238228" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/res/layout/activity_main.xml" timestamp="1546743804989" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/app/src/main/java/com/loong/componentdemo/MainApplication.java" timestamp="1546746249079" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/BusinessAccessLayer/src/main/java/com/ixigua/accesslayer/common/wallet/IWalletService.java" timestamp="1546758122443" />
-      <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/maoyan/MaoYanHttpClientFactory.java" timestamp="1529491201189">
-        <mark key="'" line="43" column="38" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/KeyEvent.java" timestamp="1527764075359">
-        <mark key="'" line="2714" column="38" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchScene.java" timestamp="1546600084254">
-        <mark key="'" line="871" column="20" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/net/Uri.java" timestamp="1528531008336">
-        <mark key="'" line="456" column="31" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/sp/BaseSettings.java" timestamp="1546506670829">
+        <mark key="'" line="43" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/VideoArticle/src/com/ss/android/article/video/ArticleApplication.java" timestamp="1546757294978">
         <mark key="'" line="15" column="48" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/sp/BaseSettings.java" timestamp="1546506670829">
-        <mark key="'" line="43" column="34" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/PhoneWindow.java" timestamp="1527762680720">
+        <mark key="'" line="1818" column="37" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ixigua.common/storage/0.0.9/b3e3cf8d8d79b60bed7c39294064615aaa30c41/storage-0.0.9-sources.jar!/com/ixigua/storage/file/EnvironmentUtils.java" timestamp="1546506886943">
+        <mark key="'" line="192" column="15" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/StrictMode.java" timestamp="1528532396908">
+        <mark key="'" line="913" column="28" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/Retrofit.java" timestamp="1530257933436">
+        <mark key="'" line="434" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchRootScene.java" timestamp="1546599068552">
         <mark key="'" line="78" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_girls/build.gradle" timestamp="1546743284993" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/app/build.gradle" timestamp="1546746523850" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/login/src/main/java/com/loong/login/AccountService.java" timestamp="1546746319024" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" timestamp="1530674425286">
-        <mark key="'" line="2723" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_app/src/main/java/com/guiying/module/MyApplication.java" timestamp="1546744314232">
+        <mark key="'" line="25" column="12" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/network/maoyan/MaoYanHttpClientFactory.java" timestamp="1529491201189">
+        <mark key="'" line="43" column="38" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/wallet/src/main/java/com/ixigua/feature/wallet/WalletService.java" timestamp="1546757945909">
+        <mark key="'" line="16" column="42" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/XiGuaLive/liveroom/src/main/res-square/layout/xigualive_square_tab_fragment.xml" timestamp="1546595288992">
+        <mark key="'" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/QK_SmartSearch/multi/common/src/main/java/com/qiku/common/logger/Handler.java" timestamp="1528105474453">
         <mark key="'" line="4" column="44" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/View.java" timestamp="1527763312372">
+        <mark key="'" line="11712" column="21" />
+      </file>
+      <file name="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/async/stream_controller.dart" timestamp="1552746566817" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" timestamp="1546745335983">
+        <mark key="'" line="41" column="53" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/lang/System.java" timestamp="1528535556799">
+        <mark key="'" line="98" column="33" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/net/Uri.java" timestamp="1528531008336">
+        <mark key="'" line="456" column="31" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_news/src/main/java/com/guiying/module/news/MyDelegate.java" timestamp="1546743999861">
         <mark key="'" line="22" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" timestamp="1546755561521">
-        <mark key="'" line="1152" column="67" />
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/CommonLib/src/com/ss/android/common/app/data/AppSettings.java" timestamp="1546506709685">
+        <mark key="'" line="64" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/share/src/main/java/com/loong/share/ShareActivity.java" timestamp="1546746437405" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/PhoneWindow.java" timestamp="1527762680720">
-        <mark key="'" line="1818" column="37" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/wallet/src/main/java/com/ixigua/feature/wallet/WalletModuleContext.java" timestamp="1546758146884" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/module/ad/AdDependAdapter.java" timestamp="1546755454480" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/wallet/src/main/java/com/ixigua/feature/wallet/WalletService.java" timestamp="1546757945909">
-        <mark key="'" line="16" column="42" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FileDescriptor.java" timestamp="1528537322586">
+        <mark key="'" line="85" column="50" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/2e1d97eec8a4c7517486234666d8b8245f63ae89/retrofit-2.0.2-sources.jar!/retrofit2/ServiceMethod.java" timestamp="1530257729546">
         <mark key="'" line="200" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ComponentDemo/base/build.gradle" timestamp="1546745886696" />
-      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Common/share/build.gradle" timestamp="1546756756125" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/com/android/internal/policy/DecorView.java" timestamp="1527762814598">
+        <mark key="'" line="439" column="29" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/SearchScene.java" timestamp="1546600084254">
+        <mark key="'" line="871" column="20" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.common/push/2.2.2.5/ea04a8c9a44afd438e3174c02b13c7e7d59ba6c9/push-2.2.2.5-sources.jar!/com/ss/android/pushmanager/MessageConstants.java" timestamp="1546506524894">
+        <mark key="'" line="99" column="44" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/search/src/main/java/com/ixigua/feature/search/XGSearchBlock.java" timestamp="1546598644865">
+        <mark key="'" line="132" column="62" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" timestamp="1528535393007">
+        <mark key="'" line="51" column="18" />
+      </file>
+      <file name="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/async/stream.dart" timestamp="1552746318264">
+        <mark key="'" line="375" column="36" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" timestamp="1530674425286">
+        <mark key="'" line="2723" column="39" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" timestamp="1546755561521">
+        <mark key="'" line="1152" column="67" />
+      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/KeyEvent.java" timestamp="1527764075359">
+        <mark key="'" line="2714" column="38" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/QK_LocalService/multi/app/src/main/java/com/qiku/localservice/service/dataloader/loader/impl/MaoYanMovieDataLoader.java" timestamp="1529491156845">
+        <mark key="'" line="55" column="13" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="703" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
       <jump line="705" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
       <jump line="722" column="12" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
       <jump line="724" column="16" filename="$USER_HOME$/Library/Android/sdk/sources/android-27/android/os/ParcelFileDescriptor.java" />
@@ -224,6 +195,7 @@
       <jump line="1152" column="67" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/ArticleBase/src/com/ss/android/article/base/app/BaseApplication.java" />
       <jump line="15" column="48" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/VideoArticle/src/com/ss/android/article/video/ArticleApplication.java" />
       <jump line="16" column="42" filename="$USER_HOME$/AndroidStudioProjects/ttvideoapp/Business/wallet/src/main/java/com/ixigua/feature/wallet/WalletService.java" />
+      <jump line="375" column="36" filename="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/async/stream.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
