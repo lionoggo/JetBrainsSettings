@@ -42,7 +42,11 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/view/View.java" timestamp="1527763312372">
         <mark key="'" line="11712" column="21" />
       </file>
-      <file name="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/async/stream_controller.dart" timestamp="1552746566817" />
+      <file name="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/async/stream_controller.dart" timestamp="1552748146367">
+        <mark key="[" line="39" column="4" />
+        <mark key="]" line="39" column="4" />
+        <mark key="." line="39" column="4" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AndroidModulePattern/module_main/src/main/java/com/guiying/module/main/MainActivity.java" timestamp="1546745335983">
         <mark key="'" line="41" column="53" />
       </file>
@@ -79,7 +83,7 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/java/io/FilterOutputStream.java" timestamp="1528535393007">
         <mark key="'" line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/async/stream.dart" timestamp="1552746318264">
+      <file name="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/async/stream.dart" timestamp="1552748397566">
         <mark key="'" line="375" column="36" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-27/android/webkit/WebView.java" timestamp="1530674425286">
@@ -198,11 +202,11 @@
       <jump line="375" column="36" filename="$USER_HOME$/flutter/bin/cache/pkg/sky_engine/lib/async/stream.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEEgY29udHJvbGxlciB3aXRoIGEgW3N0cmVhbV0gdGhhdCBzdXBwb3J0cyBvbmx5IG9uZSBzaW5nbGUgc3Vic2NyaWJlci4=</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text encoding="base64">IEEgY29udHJvbGxlciB3aXRoIGEgW3N0cmVhbV0gdGhhdCBzdXBwb3J0cyBvbmx5IG9uZSBzaW5nbGUgc3Vic2NyaWJlci4=</text>
       </register>
       <register name="/" type="4">
         <text>kw</text>
