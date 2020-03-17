@@ -2,6 +2,10 @@
   <option name="RIGHT_MARGIN" value="120" />
   <codeStyleSettings language="Dart">
     <option name="RIGHT_MARGIN" value="120" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
