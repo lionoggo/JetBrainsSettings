@@ -1,14 +1,9 @@
 <keymap version="1" name="Mac OS X 10.5+ for lionoggo" parent="Mac OS X 10.5+">
-  <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="meta space" />
-  </action>
+  <action id="ChangesView.SetDefault" />
   <action id="JumpToLastWindow" />
   <action id="RestoreDefaultLayout" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta alt s" />
-  </action>
-  <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="shift meta space" />
   </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
