@@ -11,8 +11,35 @@
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Workspace/Android/ttvideoapp/flutterbuild" timestamp="1599639411394">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="88" column="2" />
+        <mark key="." line="82" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">aWYgW1sgLXogJHtGTFVUVEVSX1NES30gXV07IHRoZW4KICBhYm9ydCAiZmx1dHRlci5zZGsgbm90IGZvdW5kIGluIGxvY2FsLnByb3BlcnRpZXMiCmZpCgppZiBbWyAhIC14ICR7RkxVVFRFUl9FWEVDVVRPUn0gXV07IHRoZW4KICBhYm9ydCAiaW52YWxpZCBmbHV0dGVyIGV4ZWN1dGFibGUgZmlsZSBpbiBsb2NhbC5wcm9wZXJ0aWVzIgpmaQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aWYgW1sgLXogJHtGTFVUVEVSX1NES30gXV07IHRoZW4KICBhYm9ydCAiZmx1dHRlci5zZGsgbm90IGZvdW5kIGluIGxvY2FsLnByb3BlcnRpZXMiCmZpCgppZiBbWyAhIC14ICR7RkxVVFRFUl9FWEVDVVRPUn0gXV07IHRoZW4KICBhYm9ydCAiaW52YWxpZCBmbHV0dGVyIGV4ZWN1dGFibGUgZmlsZSBpbiBsb2NhbC5wcm9wZXJ0aWVzIgpmaQo=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
