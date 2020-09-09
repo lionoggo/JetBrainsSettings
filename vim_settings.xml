@@ -21,11 +21,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/ttvideoapp/flutterbuild" timestamp="1599643081524">
-        <mark key="[" line="109" column="53" />
-        <mark key="]" line="109" column="64" />
-        <mark key="^" line="63" column="26" />
-        <mark key="." line="109" column="64" />
+      <file name="$USER_HOME$/Workspace/Android/ttvideoapp/flutterbuild" timestamp="1599649517838">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Android/ttvideoapp/local.properties" timestamp="1599640089578">
         <mark key="[" line="8" column="12" />
@@ -41,40 +40,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YWJvcnQK</text>
-      </register>
-      <register name="-" type="4">
-        <text>'</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBlY2hvICQocmVwb19icmFuY2ggJEdJVF9ST09UKQogIGVjaG8gJChyZXBvX2JyYW5jaCAkKQo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">YWJvcnQK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZWNobyAiPT09PT09PSAke0xPQ0FMX0ZMVVRURVJ9Igo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBlY2hvICIg562b6YCJLS0tLT4gJHttYXRjaF9saW5lfSIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBlY2hvICJrZXkgLS0tLS0tLS0gJDEiCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVjaG8gImxsbGxsbGxsIgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="0" type="4">
+        <text>$(echo $current_branch | sed 's/\.//g' | sed 's/alpha/release')</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dmVyaWZ5X21peF9lbnYoKSB7Cgp9Cgp2ZXJpZnlfbWl4X2Vudgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgZWNobyAiLS0tPjEiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjICAgICAgICBzaGVsbF9icmFuY2g9JChlY2hvICRjdXJyZW50X2JyYW5jaCB8IHNlZCAncy9cLi8vZycgfCBzZWQgJ3MvYWxwaGEvcmVsZWFzZScpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZWNobyAiLS0tPiAkc2hlbGxfYnJhbmNoIgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZWNobyAiLS0tPiAkY3VycmVudF9icmFuY2giCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gInNraXAiCiAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgIyAgICAgIHNoZWxsX2JyYW5jaD0kKGVjaG8gJHNoZWxsX2JyYW5jaCB8IHNlZCAncy9cLi8vZycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZWNobyAiLS0tLT4+Pj4gICRMT0NBTF9GTFVUVEVSIgo=</text>
+        <text encoding="base64">ICAgIGxvY2FsIHNoZWxsX2JyYW5jaD0iYWxwaGEvNS4wLjIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGxvY2FsIGN1cnJlbnRfYnJhbmNoPSJyZWxlYXNlLzUwMiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
