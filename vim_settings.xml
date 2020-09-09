@@ -4,6 +4,13 @@
       <key-repeat enabled="true" />
     </editor>
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -14,21 +21,56 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Android/ttvideoapp/flutterbuild" timestamp="1599639411394">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="88" column="2" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Workspace/Android/ttvideoapp/flutterbuild" timestamp="1599640139967">
+        <mark key="[" line="254" column="17" />
+        <mark key="]" line="255" column="12" />
+        <mark key="." line="255" column="11" />
+        <mark key="^" line="255" column="12" />
       </file>
+      <file name="$USER_HOME$/Workspace/Android/ttvideoapp/local.properties" timestamp="1599640089578">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="73" />
+        <mark key="." line="8" column="72" />
+        <mark key="^" line="8" column="73" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Android/ttvideoapp/flutterattach" timestamp="1599640172006" />
     </filemarks>
     <jumps />
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="1" type="2">
+        <text encoding="base64">ICBjbGVhbl9mbHV0dGVyX2Fzc2V0cygpIHsKICB9Cgo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>$USER_HOME$/Library/Flutterw/dist/bd_1.9.1</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNsZWFuX2ZsdXR0ZXJfYXNzZXRzCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGV4ZWN1dGVfZmx1dHRlciBjbGVhbgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZXhlY3V0ZV9mbHV0dGVyKCkgewogIGlmIFtbIC1uICR7RkxVVFRFUl9FWEVDVVRPUn0gXV07IHRoZW4KICAgIGVjaG8gImZsdXR0ZXIgJEAiCiAgICAke0ZMVVRURVJfRVhFQ1VUT1J9ICIkQCIKICBmaQp9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aWYgW1sgLXogJHtGTFVUVEVSX1NES30gXV07IHRoZW4KICBhYm9ydCAiZmx1dHRlci5zZGsgbm90IGZvdW5kIGluIGxvY2FsLnByb3BlcnRpZXMiCmZpCgppZiBbWyAhIC14ICR7RkxVVFRFUl9FWEVDVVRPUn0gXV07IHRoZW4KICBhYm9ydCAiaW52YWxpZCBmbHV0dGVyIGV4ZWN1dGFibGUgZmlsZSBpbiBsb2NhbC5wcm9wZXJ0aWVzIgpmaQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWYgW1sgLXogJHtGTFVUVEVSX1NES30gXV07IHRoZW4KICBhYm9ydCAiZmx1dHRlci5zZGsgbm90IGZvdW5kIGluIGxvY2FsLnByb3BlcnRpZXMiCmZpCgppZiBbWyAhIC14ICR7RkxVVFRFUl9FWEVDVVRPUn0gXV07IHRoZW4KICBhYm9ydCAiaW52YWxpZCBmbHV0dGVyIGV4ZWN1dGFibGUgZmlsZSBpbiBsb2NhbC5wcm9wZXJ0aWVzIgpmaQo=</text>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>$USER_HOME$/Library/Flutterw/dist/bd_1.9.1</text>
       </register>
     </registers>
   </component>
@@ -39,7 +81,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
