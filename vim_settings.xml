@@ -21,20 +21,37 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/producers/SwallowResultProducer.java" timestamp="1600952904620" />
       <file name="$USER_HOME$/Workspace/Flutter/bd_vessel/android/vessel_impl/src/main/java/com/bytedance/flutter/vessel/impl/image/DefaultImage.java" timestamp="1600950887627">
         <mark key="'" line="436" column="0" />
         <mark key="[" line="125" column="93" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/ttvideoapp/flutterbuild" timestamp="1599649517838">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/datasource/ProducerToDataSourceAdapter.java" timestamp="1600952339850" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/producers/ThreadHandoffProducer.java" timestamp="1600953574663" />
       <file name="$USER_HOME$/Workspace/Android/ttvideoapp/local.properties" timestamp="1599640089578">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="73" />
         <mark key="." line="8" column="72" />
         <mark key="^" line="8" column="73" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/producers/StatefulProducerRunnable.java" timestamp="1600953114016" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/fbcore/1.13.4.3/12d715fa5508e30fecf4c9afa91b2b81c090b066/fbcore-1.13.4.3-sources.jar!/com/facebook/common/executors/StatefulRunnable.java" timestamp="1600953401171" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/datasource/AbstractProducerToDataSourceAdapter.java" timestamp="1600952771628" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/producers/ThreadHandoffProducerQueue.java" timestamp="1600953219427" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/listener/ForwardingRequestListener.java" timestamp="1600953558306" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/core/ProducerSequenceFactory.java" timestamp="1600951936211" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/ArrayList.java" timestamp="1600953470044" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline-base/1.13.4.3/7f7992eb1ae734a04dcf76028b1a6684d0cfd310/imagepipeline-base-1.13.4.3-sources.jar!/com/facebook/imagepipeline/cache/CountingMemoryCache.java" timestamp="1600953964248" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/core/ImagePipelineFactory.java" timestamp="1600951583967" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/producers/BaseProducerContext.java" timestamp="1600952255751" />
+      <file name="$USER_HOME$/Workspace/Android/ttvideoapp/flutterbuild" timestamp="1599649517838">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/core/ImagePipeline.java" timestamp="1600952301697" />
+      <file name="/fragment.java" timestamp="1600953969224">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
