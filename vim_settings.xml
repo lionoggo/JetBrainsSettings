@@ -21,6 +21,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/Flutter/bd_vessel/android/vessel_impl/src/main/java/com/bytedance/flutter/vessel/impl/image/DefaultImage.java" timestamp="1600919389824">
+        <mark key="[" line="125" column="93" />
+      </file>
       <file name="$USER_HOME$/Workspace/Android/ttvideoapp/flutterbuild" timestamp="1599649517838">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
@@ -32,8 +35,6 @@
         <mark key="." line="8" column="72" />
         <mark key="^" line="8" column="73" />
       </file>
-      <file name="$USER_HOME$/Workspace/Android/ttvideoapp/flutterattach" timestamp="1599640172006" />
-      <file name="$USER_HOME$/Workspace/Android/ttvideoapp/config_local.gradle" timestamp="1599641362144" />
     </filemarks>
     <jumps />
   </component>
