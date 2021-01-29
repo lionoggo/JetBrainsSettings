@@ -1,0 +1,38 @@
+<keymap version="1" name="Mac OS X 10.5+ for lionoggo" parent="Mac OS X 10.5+">
+  <action id="AceAction" />
+  <action id="AceLineAction" />
+  <action id="AceTargetAction" />
+  <action id="ChangesView.Diff" />
+  <action id="ChangesView.SetDefault" />
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="JumpToLastWindow" />
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="NextDiff">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="shift right_parenthesis" />
+  </action>
+  <action id="PreviousDiff">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="shift left_parenthesis" />
+  </action>
+  <action id="RestoreDefaultLayout" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
+  <action id="SendEOF" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>

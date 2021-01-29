@@ -1,112 +1,48 @@
 <application>
   <component name="VimEditorSettings">
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
-  </component>
-  <component name="VimHistorySettings">
-    <history>
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
-    </history>
+    <editor />
   </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-  </component>
-  <component name="VimMarksSettings">
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.frameworks.baselib/utility/2.0.0/99ea309887e875ac1eb549a07041ca42cace7e0b/utility-2.0.0-sources.jar!/com/bytedance/common/utility/concurrent/TTExecutors.java" timestamp="1600956909781" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/fbcore/1.13.4.3/12d715fa5508e30fecf4c9afa91b2b81c090b066/fbcore-1.13.4.3-sources.jar!/com/facebook/common/executors/StatefulRunnable.java" timestamp="1600953401171" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/datasource/AbstractProducerToDataSourceAdapter.java" timestamp="1600952771628" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/listener/ForwardingRequestListener.java" timestamp="1600953558306" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/ArrayList.java" timestamp="1600953470044" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/producers/EncodedMemoryCacheProducer.java" timestamp="1600954231306" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/producers/SwallowResultProducer.java" timestamp="1600954577925" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/producers/MultiplexProducer.java" timestamp="1600954449304" />
-      <file name="$USER_HOME$/Workspace/Flutter/bd_vessel/android/vessel_impl/src/main/java/com/bytedance/flutter/vessel/impl/image/DefaultImage.java" timestamp="1600957286411">
-        <mark key="'" line="448" column="0" />
-        <mark key="[" line="65" column="91" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/fbcore/1.13.4.3/12d715fa5508e30fecf4c9afa91b2b81c090b066/fbcore-1.13.4.3-sources.jar!/com/facebook/datasource/FirstAvailableDataSourceSupplier.java" timestamp="1600955439150" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/datasource/ProducerToDataSourceAdapter.java" timestamp="1600952339850" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/producers/ResizeAndRotateProducer.java" timestamp="1600956173507" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/producers/ThreadHandoffProducer.java" timestamp="1600953574663" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/fbcore/1.13.4.3/12d715fa5508e30fecf4c9afa91b2b81c090b066/fbcore-1.13.4.3-sources.jar!/com/facebook/datasource/AbstractDataSource.java" timestamp="1600955783166" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/producers/StatefulProducerRunnable.java" timestamp="1600953114016" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/cache/InstrumentedMemoryCache.java" timestamp="1600954114930" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/producers/ThreadHandoffProducerQueue.java" timestamp="1600953219427" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline/1.13.4.3/a58c384eb1a0c9856f3952e7525796716628af4e/imagepipeline-1.13.4.3-sources.jar!/com/facebook/imagepipeline/cache/BufferedDiskCache.java" timestamp="1600954775040" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.bytedance.fresco/imagepipeline-base/1.13.4.3/7f7992eb1ae734a04dcf76028b1a6684d0cfd310/imagepipeline-base-1.13.4.3-sources.jar!/com/facebook/imagepipeline/cache/CountingMemoryCache.java" timestamp="1600954016060" />
-      <file name="/fragment.java" timestamp="1600955202827">
-        <mark key="[" line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="436" column="0" filename="$USER_HOME$/Workspace/Flutter/bd_vessel/android/vessel_impl/src/main/java/com/bytedance/flutter/vessel/impl/image/DefaultImage.java" />
-    </jumps>
-  </component>
-  <component name="VimRegisterSettings">
-    <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="0" type="4">
-        <text>$(echo $current_branch | sed 's/\.//g' | sed 's/alpha/release')</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">dmVyaWZ5X21peF9lbnYoKSB7Cgp9Cgp2ZXJpZnlfbWl4X2Vudgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgZWNobyAiLS0tPjEiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICAgICAgICBzaGVsbF9icmFuY2g9JChlY2hvICRjdXJyZW50X2JyYW5jaCB8IHNlZCAncy9cLi8vZycgfCBzZWQgJ3MvYWxwaGEvcmVsZWFzZScpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZWNobyAiLS0tPiAkc2hlbGxfYnJhbmNoIgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZWNobyAiLS0tPiAkY3VycmVudF9icmFuY2giCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIyAgICAgIHNoZWxsX2JyYW5jaD0kKGVjaG8gJHNoZWxsX2JyYW5jaCB8IHNlZCAncy9cLi8vZycpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIHNoZWxsX2JyYW5jaD0iYWxwaGEvNS4wLjIiCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvY2FsIGN1cnJlbnRfYnJhbmNoPSJyZWxlYXNlLzUwMiIK</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
-  </component>
-  <component name="VimSearchSettings">
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
   </component>
   <component name="VimSettings">
     <state version="7" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
