@@ -26,6 +26,10 @@
     <keyboard-shortcut first-keystroke="shift f7" />
     <keyboard-shortcut first-keystroke="shift left_parenthesis" />
   </action>
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="shift k" />
+  </action>
   <action id="RestoreDefaultLayout" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="meta alt s" />
