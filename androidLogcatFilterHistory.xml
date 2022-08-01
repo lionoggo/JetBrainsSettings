@@ -1,0 +1,14 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="" />
+    <option name="nonFavorites">
+      <list>
+        <option value="tag: DSRStrategyManager" />
+        <option value="tag~:DSRStrategyManager" />
+        <option value="DSRStrategyManager" />
+        <option value="package:mine" />
+        <option value="package:mineDSRStrategyManager" />
+      </list>
+    </option>
+  </component>
+</application>
