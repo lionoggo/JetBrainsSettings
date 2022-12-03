@@ -2,7 +2,6 @@
   <component name="GitToolBoxAppSettings2">
     <option name="outdatedBranchesAutoCleanup">
       <OutdatedBranchesAutoCleanupConfig>
-        <option name="autoCheckEnabled" value="true" />
         <option name="autoCheckIntervalHours" value="36" />
       </OutdatedBranchesAutoCleanupConfig>
     </option>
@@ -15,6 +14,7 @@
     </option>
     <option name="previousVersionMigrated" value="true" />
     <option name="showBlameWidget" value="false" />
+    <option name="startupNotificationVersion" value="1" />
     <option name="version" value="6" />
   </component>
 </application>
