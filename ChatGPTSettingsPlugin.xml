@@ -1,0 +1,12 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="enableProxy" value="true" />
+    <option name="contentOrder">
+      <map>
+        <entry key="1" value="Online ChatGPT" />
+        <entry key="2" value="ChatGPT" />
+        <entry key="3" value="GPT-3.5-Turbo" />
+      </map>
+    </option>
+  </component>
+</application>
