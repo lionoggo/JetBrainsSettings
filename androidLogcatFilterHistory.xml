@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine -message~:pcdnd" />
     <option name="nonFavorites">
       <list>
-        <option value="tag: DSRStrategyManager" />
-        <option value="tag~:DSRStrategyManager" />
-        <option value="DSRStrategyManager" />
+        <option value="package:mine -message~:pcdnd" />
+        <option value="package:com.bytedance.android.ttlivesdk_opensdk " />
+        <option value="package:mine " />
+        <option value="package:com.ss.android.ugc.aweme tag~:AdRankPitayaService " />
+        <option value="package:com.ss.android.ugc.aweme " />
         <option value="package:mine" />
-        <option value="package:mineDSRStrategyManager" />
       </list>
     </option>
   </component>
