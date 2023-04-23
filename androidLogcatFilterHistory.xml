@@ -1,11 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ASR-" />
+    <option name="mostRecentlyUsed" value="ASR-TimestampValidator" />
     <option name="nonFavorites">
       <list>
+        <option value="ASR-TimestampValidator" />
+        <option value="ASR-Input|ASR-TimestampValidator" />
+        <option value="package:mine ASR-Input|ASR-" />
+        <option value="package:mine ASR-Input" />
+        <option value="package:mine ASR-TimestampValidator" />
         <option value="package:mine ASR-" />
         <option value="package:mine " />
-        <option value="package:mine ASR-Input" />
       </list>
     </option>
   </component>
