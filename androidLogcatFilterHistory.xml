@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine ASR-Input" />
+    <option name="mostRecentlyUsed" value="package:mine ASR-" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine ASR-" />
+        <option value="package:mine " />
         <option value="package:mine ASR-Input" />
       </list>
     </option>
