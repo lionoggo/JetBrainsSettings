@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CV- " />
+    <option name="mostRecentlyUsed" value="package:mine CV- | LAI-Debug-vision" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine CV- | LAI-Debug-vision" />
         <option value="package:mine CV- " />
         <option value="package:mine fatal | CV-" />
         <option value="package:mine fatal" />
