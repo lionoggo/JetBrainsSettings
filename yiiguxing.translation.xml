@@ -1,13 +1,23 @@
 <application>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1688909928149" />
+    <option name="lastTrimTime" value="1691230655622" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogWidth" value="598" />
     <option name="newTranslationDialogX" value="1115" />
     <option name="newTranslationDialogY" value="471" />
     <histories>
+      <item value="Bitmap, callback: Dete" />
       <item value="你好啊&#10;" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
 </application>
