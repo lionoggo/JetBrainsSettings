@@ -1,14 +1,21 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine CV- | LAI-Debug-vision" />
+    <option name="mostRecentlyUsed" value="package:mine fatal | lionoggo" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal | lionoggo" />
+        <option value="package: mine " />
+        <option value="package: mine lionoggo" />
+        <option value="package:" />
+        <option value="lion" />
+        <option value="liionoggo" />
+        <option value="package:mine lionoggo" />
+        <option value="package:mine " />
         <option value="package:mine CV- | LAI-Debug-vision" />
         <option value="package:mine CV- " />
         <option value="package:mine fatal | CV-" />
         <option value="package:mine fatal" />
         <option value="package:mine CV-" />
-        <option value="package:mine " />
         <option value="package:mine fata" />
         <option value="package:mine fat" />
         <option value="ASR-TimestampValidator" />
@@ -16,7 +23,6 @@
         <option value="package:mine ASR-Input|ASR-" />
         <option value="package:mine ASR-Input" />
         <option value="package:mine ASR-TimestampValidator" />
-        <option value="package:mine ASR-" />
       </list>
     </option>
   </component>
