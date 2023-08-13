@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine LAI-AsrPredictManager" />
+    <option name="mostRecentlyUsed" value="package:mine LAI-AsrPredictManager | fatal | LAI" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine LAI-AsrPredictManager | fatal | LAI" />
+        <option value="package:mine LAI-AsrPredictManager | fatal" />
         <option value="package:mine LAI-AsrPredictManager" />
         <option value="package:mine LAR" />
         <option value="package:mine ASR-" />
@@ -21,8 +23,6 @@
         <option value="package:mine fatal" />
         <option value="package:mine CV-" />
         <option value="package:mine fata" />
-        <option value="package:mine fat" />
-        <option value="ASR-TimestampValidator" />
       </list>
     </option>
   </component>
