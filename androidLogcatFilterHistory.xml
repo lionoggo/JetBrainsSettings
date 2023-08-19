@@ -1,8 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine LAI-AsrPredictManager | fatal | LAI | ASR-" />
+    <option name="mostRecentlyUsed" value="package:mine fatal | ASR-SliceStrategy | ASR-Input" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal | ASR-SliceStrategy | ASR-Input" />
+        <option value="package:mine fatal | Asr-" />
+        <option value="package:mine fatal | ASR | Asr-" />
+        <option value="package:mine fatal | ASR" />
+        <option value="package:mine fatal | ASR-" />
+        <option value="package:mine CV- | fatal" />
+        <option value="package:mine  " />
+        <option value="CV-" />
+        <option value="CV" />
+        <option value="C" />
+        <option value="package:mine  CV-" />
         <option value="package:mine LAI-AsrPredictManager | fatal | LAI | ASR-" />
         <option value="package:mine LAI-AsrPredictManager | fatal | LAI | ASR" />
         <option value="package:mine LAI-AsrPredictManager | fatal | LAI" />
@@ -12,17 +23,6 @@
         <option value="package:mine ASR-" />
         <option value="package:mine ASR" />
         <option value="package:mine lionoggo" />
-        <option value="package:mine fatal | lionoggo" />
-        <option value="package: mine " />
-        <option value="package: mine lionoggo" />
-        <option value="package:" />
-        <option value="lion" />
-        <option value="liionoggo" />
-        <option value="package:mine " />
-        <option value="package:mine CV- | LAI-Debug-vision" />
-        <option value="package:mine CV- " />
-        <option value="package:mine fatal | CV-" />
-        <option value="package:mine fatal" />
       </list>
     </option>
   </component>

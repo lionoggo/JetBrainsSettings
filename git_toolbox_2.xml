@@ -2,7 +2,7 @@
   <component name="GitToolBoxAppSettings2">
     <option name="outdatedBranchesAutoCleanup">
       <OutdatedBranchesAutoCleanupConfig>
-        <option name="autoCheckIntervalHours" value="36" />
+        <option name="autoCheckIntervalHours" value="24" />
       </OutdatedBranchesAutoCleanupConfig>
     </option>
     <option name="outdatedBranchesExclusionGlobs">
@@ -13,7 +13,51 @@
       </list>
     </option>
     <option name="previousVersionMigrated" value="true" />
+    <option name="repositoriesConfig">
+      <RepositoriesConfig>
+        <configForRepoType>
+          <entry type="BITBUCKET_SERVER">
+            <RepoTypeConfig>
+              <option name="fetchUriGlobs">
+                <list>
+                  <option value="" />
+                </list>
+              </option>
+            </RepoTypeConfig>
+          </entry>
+          <entry type="BITBUCKET_CLOUD">
+            <RepoTypeConfig>
+              <option name="fetchUriGlobs">
+                <list>
+                  <option value="" />
+                </list>
+              </option>
+            </RepoTypeConfig>
+          </entry>
+          <entry type="GITHUB">
+            <RepoTypeConfig>
+              <option name="fetchUriGlobs">
+                <list>
+                  <option value="" />
+                </list>
+              </option>
+            </RepoTypeConfig>
+          </entry>
+          <entry type="GITLAB">
+            <RepoTypeConfig>
+              <option name="fetchUriGlobs">
+                <list>
+                  <option value="" />
+                </list>
+              </option>
+            </RepoTypeConfig>
+          </entry>
+        </configForRepoType>
+      </RepositoriesConfig>
+    </option>
     <option name="showBlameWidget" value="false" />
+    <option name="showChangesInStatusBar" value="false" />
+    <option name="showStatusWidget" value="false" />
     <option name="startupNotificationVersion" value="1" />
     <option name="version" value="6" />
   </component>
