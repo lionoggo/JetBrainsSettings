@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal | ASR-SliceStrategy | ASR-Input" />
+    <option name="mostRecentlyUsed" value="package:mine fatal | ASR-SliceStrategy | ASR-Input | Asr-AudioSliceProducer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal | ASR-SliceStrategy | ASR-Input | Asr-AudioSliceProducer" />
         <option value="package:mine fatal | ASR-SliceStrategy | ASR-Input" />
         <option value="package:mine fatal | Asr-" />
         <option value="package:mine fatal | ASR | Asr-" />
@@ -22,7 +23,6 @@
         <option value="package:mine LAR" />
         <option value="package:mine ASR-" />
         <option value="package:mine ASR" />
-        <option value="package:mine lionoggo" />
       </list>
     </option>
   </component>
