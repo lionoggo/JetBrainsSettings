@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine fatal | LAI-AnchorModelSchedule" />
+        <option value="package:mine fatal | " />
         <option value="package:mine fatal | ASR-SliceStrategy | ASR-Input | Asr-AudioSliceProducer" />
         <option value="package:mine fatal | ASR-SliceStrategy | ASR-Input" />
         <option value="package:mine fatal | Asr-" />
@@ -22,7 +23,6 @@
         <option value="package:mine LAI-AsrPredictManager | fatal" />
         <option value="package:mine LAI-AsrPredictManager" />
         <option value="package:mine LAR" />
-        <option value="package:mine ASR-" />
       </list>
     </option>
   </component>
