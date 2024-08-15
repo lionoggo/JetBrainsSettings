@@ -19,6 +19,9 @@
         <javadocPath>
           <root type="composite" />
         </javadocPath>
+        <lintPath>
+          <root type="composite" />
+        </lintPath>
         <sourcePath>
           <root type="composite">
             <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-28" type="simple" />
@@ -46,6 +49,9 @@
         <javadocPath>
           <root type="composite" />
         </javadocPath>
+        <lintPath>
+          <root type="composite" />
+        </lintPath>
         <sourcePath>
           <root type="composite">
             <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-29" type="simple" />
@@ -73,6 +79,9 @@
         <javadocPath>
           <root type="composite" />
         </javadocPath>
+        <lintPath>
+          <root type="composite" />
+        </lintPath>
         <sourcePath>
           <root type="composite">
             <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-30" type="simple" />
@@ -100,6 +109,9 @@
         <javadocPath>
           <root type="composite" />
         </javadocPath>
+        <lintPath>
+          <root type="composite" />
+        </lintPath>
         <sourcePath>
           <root type="composite">
             <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-31" type="simple" />
@@ -127,6 +139,9 @@
         <javadocPath>
           <root type="composite" />
         </javadocPath>
+        <lintPath>
+          <root type="composite" />
+        </lintPath>
         <sourcePath>
           <root type="composite">
             <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-32" type="simple" />
@@ -154,6 +169,9 @@
         <javadocPath>
           <root type="composite" />
         </javadocPath>
+        <lintPath>
+          <root type="composite" />
+        </lintPath>
         <sourcePath>
           <root type="composite">
             <root url="file://$USER_HOME$/Library/Android/sdk/sources/android-33" type="simple" />
@@ -176,6 +194,9 @@
         <javadocPath>
           <root type="composite" />
         </javadocPath>
+        <lintPath>
+          <root type="composite" />
+        </lintPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
@@ -271,6 +292,9 @@
         <javadocPath>
           <root type="composite" />
         </javadocPath>
+        <lintPath>
+          <root type="composite" />
+        </lintPath>
         <sourcePath>
           <root type="composite">
             <root url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-11.0.24/Contents/Home/lib/src.zip!/java.se" type="simple" />
