@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal | Asr-AudioSliceProducer | LAI-AnchorAiService" />
+    <option name="mostRecentlyUsed" value="package:mine fatal | Asr-AudioSliceProducer | LAI-AnchorAiService | CV- | LAI-An" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal | Asr-AudioSliceProducer | LAI-AnchorAiService | CV- | LAI-An" />
+        <option value="package:mine fatal | Asr-AudioSliceProducer | LAI-AnchorAiService | CV-" />
         <option value="package:mine fatal | Asr-AudioSliceProducer | LAI-AnchorAiService" />
         <option value="package:mine fatal | Asr-AudioSliceProducer" />
         <option value="package:mine fatal | asr | Asr" />
@@ -21,8 +23,6 @@
         <option value="package:mine CV- | fatal" />
         <option value="package:mine  " />
         <option value="CV-" />
-        <option value="CV" />
-        <option value="C" />
       </list>
     </option>
   </component>
