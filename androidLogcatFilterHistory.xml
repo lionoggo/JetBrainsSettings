@@ -1,8 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal | LAI-AnchorAiService | CV- | CV-AnchorPornDetect" />
+    <option name="mostRecentlyUsed" value="package:mine fatal | LAI-AnchorAiService | CV- | CV-AnchorPornDetect | LAI-GamePushManager | GamePromoteManager | GameCP_ | mira" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal | LAI-AnchorAiService | CV- | CV-AnchorPornDetect | LAI-GamePushManager | GamePromoteManager | GameCP_ | mira" />
+        <option value="package:mine fatal | LAI-AnchorAiService | CV- | CV-AnchorPornDetect | LAI-GamePushManager | GamePromoteManager | GameCP_" />
+        <option value="package:mine fatal | LAI-AnchorAiService | CV- | CV-AnchorPornDetect | LAI-GamePushManager | GamePromoteManager" />
+        <option value="package:mine fatal | LAI-AnchorAiService | CV- | CV-AnchorPornDetect | LAI-GamePushManager | GamePr" />
+        <option value="package:mine fatal | LAI-AnchorAiService | CV- | CV-AnchorPornDetect | LAI-GamePushManager" />
         <option value="package:mine fatal | LAI-AnchorAiService | CV- | CV-AnchorPornDetect" />
         <option value="CV-" />
         <option value="fatal" />
@@ -18,11 +23,6 @@
         <option value="package:mine fatal | LAI-Debug-vision" />
         <option value="package:mine fatal | LAI-AnchorModelSchedule | LAI" />
         <option value="package:mine fatal | LAI-AnchorModelSchedule" />
-        <option value="package:mine fatal | " />
-        <option value="package:mine fatal | ASR-SliceStrategy | ASR-Input | Asr-AudioSliceProducer" />
-        <option value="package:mine fatal | ASR-SliceStrategy | ASR-Input" />
-        <option value="package:mine fatal | Asr-" />
-        <option value="package:mine fatal | ASR | Asr-" />
       </list>
     </option>
   </component>
