@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine fatal | LAI-AnchorAiService | LAI-AnchorPerformance" />
+    <option name="mostRecentlyUsed" value="package:mine fatal | livesdk_live_duration" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine fatal | livesdk_live_duration" />
         <option value="package:mine fatal | LAI-AnchorAiService | LAI-AnchorPerformance" />
         <option value="package:mine fatal | LAI-AnchorAiService | CV- | CV-AnchorPornDetect | LAI-GamePushManager | GamePromoteManager | GameCP_ " />
         <option value="package:mine fatal | LAI-AnchorAiService | CV- | CV-AnchorPornDetect | LAI-GamePushManager | GamePromoteManager | GameCP_ | mira" />
@@ -22,7 +23,6 @@
         <option value="package:mine fatal | Asr-AudioSliceProducer" />
         <option value="package:mine fatal | asr | Asr" />
         <option value="package:mine fatal | LAI- | asr" />
-        <option value="package:mine fatal | LAI-" />
       </list>
     </option>
   </component>
