@@ -8,5 +8,6 @@
     </languageAllowList>
     <option name="inlayTextColor" value="#ea5bd7" />
     <option name="showIdeCompletions" value="true" />
+    <option name="checkForUpdate" value="false" />
   </component>
 </application>
